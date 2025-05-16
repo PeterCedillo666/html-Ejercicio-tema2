@@ -1,0 +1,50 @@
+[2025-02-11 08:09:01,880] [1    ] [INFO ] [] - ========== Box Edit v4.28.0.1161 ==========
+[2025-02-11 08:09:01,971] [1    ] [INFO ] [] - Command Line: "C:\Users\pcedillo\AppData\Local\Box\Box Edit\Box Edit.exe" 
+[2025-02-11 08:09:03,447] [1    ] [INFO ] [] - Getting DebugLogging value from CurrentUser
+[2025-02-11 08:09:03,449] [1    ] [INFO ] [] - Working with debug logging OFF
+[2025-02-11 08:09:03,587] [1    ] [INFO ] [] - Days to keep files in cache set to 7
+[2025-02-11 08:09:04,273] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2025-02-11 08:09:04,341] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(488): Starting DeviceId generator.
+[2025-02-11 08:09:04,345] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(515): Global mutex obtained. Start checking.
+[2025-02-11 08:09:04,678] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(331): Restored global DeviceId
+[2025-02-11 08:09:04,679] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(341): Restored global DeviceData
+[2025-02-11 08:09:04,681] [1    ] [INFO ] [] - DeviceId::PerformChecking(452): Checking DeviceData.
+[2025-02-11 08:09:04,685] [1    ] [INFO ] [] - DeviceId::PerformChecking(453): DeviceData read from registry: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2025-02-11 08:09:04,687] [1    ] [INFO ] [] - DeviceId::PerformChecking(454): Generated DeviceData: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2025-02-11 08:09:04,689] [1    ] [INFO ] [] - DeviceId::ClearLocalProperites(431): Clearing local properties
+[2025-02-11 08:09:04,831] [9    ] [INFO ] [] - Starting Autoupdater
+[2025-02-11 08:09:04,834] [9    ] [INFO ] [] - Starting update check timer - delay: 00:00:05, interval: 05:26:00
+[2025-02-11 08:09:04,928] [1    ] [INFO ] [] - Running pipe server using box_edit_pipe1 as pipe name
+[2025-02-11 08:09:04,958] [1    ] [INFO ] [] - .NET Version: unknown (533320) - 4.0.30319.42000
+[2025-02-11 08:09:09,839] [13   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-02-11 08:09:09,843] [13   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-02-11 08:09:09,845] [13   ] [INFO ] [] - Checking for upgrade
+[2025-02-11 08:09:09,853] [13   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-02-11 08:09:09,854] [13   ] [INFO ] [] - result: True
+[2025-02-11 08:09:09,859] [13   ] [INFO ] [] - Checking for upgrades
+[2025-02-11 08:09:09,868] [13   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-02-11 08:09:10,933] [13   ] [INFO ] [] - ### current version track name: 4.28.0
+[2025-02-11 08:09:10,935] [13   ] [INFO ] [] - No custom track name in registry
+[2025-02-11 08:09:10,937] [13   ] [WARN ] [] - Track 4.28.0 not found
+[2025-02-11 08:09:10,937] [13   ] [INFO ] [] - Track default for upgrade found
+[2025-02-11 08:09:10,939] [13   ] [INFO ] [] - RolloutID set to 23
+[2025-02-11 08:09:10,942] [13   ] [INFO ] [] - No upgrade available
+[2025-02-11 08:09:10,943] [13   ] [INFO ] [] - Check for updates returned None
+[2025-02-11 08:09:10,944] [13   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2025-02-11 08:09:10,948] [13   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:17:00
+[2025-02-11 13:26:09,413] [14   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-02-11 13:26:09,415] [14   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-02-11 13:26:09,416] [14   ] [INFO ] [] - Checking for upgrade
+[2025-02-11 13:26:09,419] [14   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-02-11 13:26:09,420] [14   ] [INFO ] [] - result: True
+[2025-02-11 13:26:09,425] [14   ] [INFO ] [] - Checking for upgrades
+[2025-02-11 13:26:09,426] [14   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-02-11 13:26:09,713] [14   ] [INFO ] [] - ### current version track name: 4.28.0
+[2025-02-11 13:26:09,713] [14   ] [INFO ] [] - No custom track name in registry
+[2025-02-11 13:26:09,714] [14   ] [WARN ] [] - Track 4.28.0 not found
+[2025-02-11 13:26:09,714] [14   ] [INFO ] [] - Track default for upgrade found
+[2025-02-11 13:26:09,716] [14   ] [INFO ] [] - RolloutID set to 23
+[2025-02-11 13:26:09,717] [14   ] [INFO ] [] - No upgrade available
+[2025-02-11 13:26:09,717] [14   ] [INFO ] [] - Check for updates returned None
+[2025-02-11 13:26:09,717] [14   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2025-02-11 13:26:09,718] [14   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:17:00

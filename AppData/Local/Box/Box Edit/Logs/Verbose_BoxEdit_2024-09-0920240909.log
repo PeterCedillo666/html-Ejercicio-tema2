@@ -1,0 +1,94 @@
+[2024-09-09 16:29:01,186] [1    ] [INFO ] [] - ========== Box Edit v4.26.1.1109 ==========
+[2024-09-09 16:29:01,206] [1    ] [INFO ] [] - Command Line: "C:\Users\pcedillo\AppData\Local\Box\Box Edit\Box Edit.exe"
+[2024-09-09 16:29:01,630] [1    ] [INFO ] [] - Getting DebugLogging value from CurrentUser
+[2024-09-09 16:29:01,630] [1    ] [INFO ] [] - Working with debug logging OFF
+[2024-09-09 16:29:01,660] [1    ] [INFO ] [] - Days to keep files in cache set to 7
+[2024-09-09 16:29:01,725] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2024-09-09 16:29:01,739] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(488): Starting DeviceId generator.
+[2024-09-09 16:29:01,741] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(515): Global mutex obtained. Start checking.
+[2024-09-09 16:29:01,794] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(331): Restored global DeviceId
+[2024-09-09 16:29:01,795] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(341): Restored global DeviceData
+[2024-09-09 16:29:01,795] [1    ] [INFO ] [] - DeviceId::PerformChecking(452): Checking DeviceData.
+[2024-09-09 16:29:01,796] [1    ] [INFO ] [] - DeviceId::PerformChecking(453): DeviceData read from registry: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-09 16:29:01,796] [1    ] [INFO ] [] - DeviceId::PerformChecking(454): Generated DeviceData: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-09 16:29:01,796] [1    ] [INFO ] [] - DeviceId::ClearLocalProperites(431): Clearing local properties
+[2024-09-09 16:29:01,822] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-09-09 16:29:01,823] [9    ] [INFO ] [] - result: True
+[2024-09-09 16:29:01,823] [9    ] [INFO ] [] - Checking for upgrades
+[2024-09-09 16:29:01,832] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-09-09 16:29:01,833] [9    ] [INFO ] [] - C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json file doesn't exist, trying to create it
+[2024-09-09 16:29:01,842] [1    ] [INFO ] [] - Running pipe server using box_edit_pipe1 as pipe name
+[2024-09-09 16:29:01,849] [1    ] [INFO ] [] - .NET Version: unknown (533320) - 4.0.30319.42000
+[2024-09-09 16:29:01,851] [13   ] [INFO ] [] - Sending async metric DotNetVersion to Gen204 json endpoint.
+[2024-09-09 16:29:01,909] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-09-09 16:29:02,219] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-09-09 16:29:02,224] [9    ] [INFO ] [] - ### current version track name: 4.26.1
+[2024-09-09 16:29:02,224] [9    ] [WARN ] [] - Track 4.26.1 not found
+[2024-09-09 16:29:02,225] [9    ] [INFO ] [] - Track default for upgrade found
+[2024-09-09 16:29:02,225] [9    ] [INFO ] [] - RolloutID set to 47
+[2024-09-09 16:29:02,225] [9    ] [INFO ] [] - No upgrade available
+[2024-09-09 16:29:02,233] [13   ] [INFO ] [] - Metric ingestion endpoint response: NoContent
+[2024-09-09 16:29:06,470] [10   ] [INFO ] [] - Pipe connected
+[2024-09-09 16:29:06,565] [10   ] [INFO ] [] - Closed Pipe
+[2024-09-09 16:29:06,853] [12   ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:29:06,872] [12   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:29:06,887] [12   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 1c8e2183-27e4-403c-aeb8-b2f11c497be7
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05E15AC6
+- log callback: 05E15B66
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:29:06,898] [12   ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:29:07,591] [10   ] [INFO ] [] - Pipe connected
+[2024-09-09 16:29:07,594] [15   ] [INFO ] [] - Processing LaunchEditorCommand
+[2024-09-09 16:29:07,603] [10   ] [INFO ] [] - Closed Pipe
+[2024-09-09 16:29:10,738] [15   ] [INFO ] [] - Launching Editor for file: 900455347307 with verb: edit
+[2024-09-09 16:29:10,918] [9    ] [INFO ] [] - Sending async metric OpenWithPerformanceMetric to Gen204 json endpoint.
+[2024-09-09 16:29:10,919] [15   ] [INFO ] [] - Sending async metric plugins_metrics_os_locale to Gen204 json endpoint.
+[2024-09-09 16:29:11,112] [15   ] [INFO ] [] - Metric ingestion endpoint response: NoContent
+[2024-09-09 16:29:11,241] [9    ] [INFO ] [] - Metric ingestion endpoint response: NoContent
+[2024-09-09 16:39:06,860] [18   ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:39:06,870] [18   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:39:06,870] [18   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 1c8e2183-27e4-403c-aeb8-b2f11c497be7
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05E15AC6
+- log callback: 05E15B66
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:39:06,880] [18   ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:49:06,849] [11   ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:49:06,849] [11   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:49:06,849] [11   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 1c8e2183-27e4-403c-aeb8-b2f11c497be7
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05E15AC6
+- log callback: 05E15B66
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:49:06,865] [11   ] [INFO ] [] - Shutting down the metrics collector

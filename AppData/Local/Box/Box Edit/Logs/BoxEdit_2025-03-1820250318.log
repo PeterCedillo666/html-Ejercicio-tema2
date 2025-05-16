@@ -1,0 +1,50 @@
+[2025-03-18 08:02:23,385] [1    ] [INFO ] [] - ========== Box Edit v4.28.1.1163 ==========
+[2025-03-18 08:02:23,466] [1    ] [INFO ] [] - Command Line: "C:\Users\pcedillo\AppData\Local\Box\Box Edit\Box Edit.exe" 
+[2025-03-18 08:02:25,003] [1    ] [INFO ] [] - Getting DebugLogging value from CurrentUser
+[2025-03-18 08:02:25,006] [1    ] [INFO ] [] - Working with debug logging OFF
+[2025-03-18 08:02:25,145] [1    ] [INFO ] [] - Days to keep files in cache set to 7
+[2025-03-18 08:02:27,178] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2025-03-18 08:02:27,241] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(488): Starting DeviceId generator.
+[2025-03-18 08:02:27,243] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(515): Global mutex obtained. Start checking.
+[2025-03-18 08:02:27,496] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(331): Restored global DeviceId
+[2025-03-18 08:02:27,497] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(341): Restored global DeviceData
+[2025-03-18 08:02:27,500] [1    ] [INFO ] [] - DeviceId::PerformChecking(452): Checking DeviceData.
+[2025-03-18 08:02:27,503] [1    ] [INFO ] [] - DeviceId::PerformChecking(453): DeviceData read from registry: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2025-03-18 08:02:27,504] [1    ] [INFO ] [] - DeviceId::PerformChecking(454): Generated DeviceData: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2025-03-18 08:02:27,505] [1    ] [INFO ] [] - DeviceId::ClearLocalProperites(431): Clearing local properties
+[2025-03-18 08:02:27,603] [9    ] [INFO ] [] - Starting Autoupdater
+[2025-03-18 08:02:27,605] [9    ] [INFO ] [] - Starting update check timer - delay: 00:00:05, interval: 05:29:00
+[2025-03-18 08:02:27,675] [1    ] [INFO ] [] - Running pipe server using box_edit_pipe1 as pipe name
+[2025-03-18 08:02:27,698] [1    ] [INFO ] [] - .NET Version: unknown (533320) - 4.0.30319.42000
+[2025-03-18 08:02:32,580] [12   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-03-18 08:02:32,581] [12   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-03-18 08:02:32,583] [12   ] [INFO ] [] - Checking for upgrade
+[2025-03-18 08:02:32,587] [12   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-03-18 08:02:32,588] [12   ] [INFO ] [] - result: True
+[2025-03-18 08:02:32,593] [12   ] [INFO ] [] - Checking for upgrades
+[2025-03-18 08:02:32,599] [12   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-03-18 08:02:33,420] [12   ] [INFO ] [] - ### current version track name: 4.28.1
+[2025-03-18 08:02:33,422] [12   ] [INFO ] [] - No custom track name in registry
+[2025-03-18 08:02:33,424] [12   ] [WARN ] [] - Track 4.28.1 not found
+[2025-03-18 08:02:33,425] [12   ] [INFO ] [] - Track default for upgrade found
+[2025-03-18 08:02:33,429] [12   ] [INFO ] [] - RolloutID set to 61
+[2025-03-18 08:02:33,430] [12   ] [INFO ] [] - Not upgrading because RolloutID is not in range
+[2025-03-18 08:02:33,431] [12   ] [INFO ] [] - Check for updates returned None
+[2025-03-18 08:02:33,432] [12   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2025-03-18 08:02:33,433] [12   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:44:00
+[2025-03-18 14:59:40,434] [9    ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-03-18 14:59:40,438] [9    ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-03-18 14:59:40,439] [9    ] [INFO ] [] - Checking for upgrade
+[2025-03-18 14:59:40,441] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-03-18 14:59:40,442] [9    ] [INFO ] [] - result: True
+[2025-03-18 14:59:40,449] [9    ] [INFO ] [] - Checking for upgrades
+[2025-03-18 14:59:40,452] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-03-18 14:59:40,839] [9    ] [INFO ] [] - ### current version track name: 4.28.1
+[2025-03-18 14:59:40,841] [9    ] [INFO ] [] - No custom track name in registry
+[2025-03-18 14:59:40,842] [9    ] [WARN ] [] - Track 4.28.1 not found
+[2025-03-18 14:59:40,842] [9    ] [INFO ] [] - Track default for upgrade found
+[2025-03-18 14:59:40,843] [9    ] [INFO ] [] - RolloutID set to 61
+[2025-03-18 14:59:40,844] [9    ] [INFO ] [] - Not upgrading because RolloutID is not in range
+[2025-03-18 14:59:40,845] [9    ] [INFO ] [] - Check for updates returned None
+[2025-03-18 14:59:40,845] [9    ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2025-03-18 14:59:40,846] [9    ] [INFO ] [] - Next autoupgrade timer will fire after: 05:22:00

@@ -1,0 +1,166 @@
+[2024-09-09 16:29:01,182] [1    ] [INFO ] [] - ========== Box Local Com Server v4.26.1.1109 ==========
+[2024-09-09 16:29:01,203] [1    ] [INFO ] [] - Running as a per-user installation
+[2024-09-09 16:29:01,234] [1    ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:29:01,245] [1    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:29:01,245] [1    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: df298782-2739-48be-8018-3e45a582c7d8
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 059B296E
+- log callback: 059B2996
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:29:01,250] [1    ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:29:01,259] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2024-09-09 16:29:01,260] [1    ] [INFO ] [] - Starting server...
+[2024-09-09 16:29:01,267] [1    ] [INFO ] [] - Server running. Listening to port 17223
+[2024-09-09 16:29:01,269] [1    ] [INFO ] [] - Working with debug logging OFF
+[2024-09-09 16:29:01,280] [7    ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:29:01,284] [7    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:29:01,285] [7    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: df298782-2739-48be-8018-3e45a582c7d8
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 059B2E6E
+- log callback: 059B2996
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:29:01,290] [7    ] [INFO ] [] - Recording metric - name: ComServerStart
+[2024-09-09 16:29:01,298] [7    ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:29:05,986] [12   ] [INFO ] [] - Accepted Origin
+[2024-09-09 16:29:05,986] [6    ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:29:05,986] [10   ] [INFO ] [] - Accepted Origin
+[2024-09-09 16:29:06,001] [6    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:29:06,001] [6    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: df298782-2739-48be-8018-3e45a582c7d8
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 059B2E6E
+- log callback: 059B2996
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:29:06,002] [10   ] [INFO ] [] - Handling status request
+[2024-09-09 16:29:06,004] [6    ] [INFO ] [] - Recording metric - name: UpgradeServiceStarted
+[2024-09-09 16:29:06,004] [6    ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:29:06,269] [5    ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:29:06,272] [10   ] [INFO ] [] - Accepted Origin
+[2024-09-09 16:29:06,275] [7    ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:29:06,278] [10   ] [INFO ] [] - Accepted Origin
+[2024-09-09 16:29:06,281] [5    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:29:06,281] [5    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: df298782-2739-48be-8018-3e45a582c7d8
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 059B2E6E
+- log callback: 059B2996
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:29:06,313] [5    ] [INFO ] [] - Posting metric to endpoint
+[2024-09-09 16:29:06,331] [10   ] [INFO ] [] - Checking executable signing ceritifcate
+[2024-09-09 16:29:06,441] [10   ] [INFO ] [] - Application "Box Edit" running for user "FERALLOY\pcedillo"
+[2024-09-09 16:29:06,452] [10   ] [INFO ] [] - Handling application_request
+[2024-09-09 16:29:06,459] [16   ] [INFO ] [] - Attempt #1 to connect to named pipe box_edit_pipe1
+[2024-09-09 16:29:06,471] [16   ] [INFO ] [] - The named pipe box_edit_pipe1 is connected
+[2024-09-09 16:29:06,566] [17   ] [INFO ] [] - Received 176 bytes from application boxedit
+[2024-09-09 16:29:06,566] [17   ] [INFO ] [] - Disconnected from box_edit_pipe1
+[2024-09-09 16:29:06,568] [10   ] [INFO ] [] - Received {"response_type":"get_default_application","default_application_name":[{"pptx":"PowerPoint"},{"mp4":"Reproductor multimedia"},{"xlsx":"Excel"},{"xls":"Excel"},{"docx":"Word"}]} from application boxedit
+[2024-09-09 16:29:06,569] [10   ] [INFO ] [] - Elapsed time to handle application_request: 00:00:00.1156097
+[2024-09-09 16:29:06,700] [5    ] [INFO ] [] - Metrics sent to the endpoint
+[2024-09-09 16:29:06,711] [5    ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:29:06,711] [7    ] [ERROR] [] - MetricsCollector::Initialize(171): Check Failed: !IsConfigured() - Return: MetricResult_InvalidState
+[2024-09-09 16:29:06,713] [7    ] [ERROR] [] - Failed to initialized metrics collector - error: 2
+[2024-09-09 16:29:06,714] [7    ] [INFO ] [] - Recording metric - name: UpgradeServiceStarted
+[2024-09-09 16:29:06,715] [7    ] [ERROR] [] - Failed to send metrics - error: 2
+[2024-09-09 16:29:07,529] [15   ] [INFO ] [] - Accepted Origin
+[2024-09-09 16:29:07,531] [5    ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:29:07,533] [15   ] [INFO ] [] - Accepted Origin
+[2024-09-09 16:29:07,534] [15   ] [INFO ] [] - Checking executable signing ceritifcate
+[2024-09-09 16:29:07,538] [5    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:29:07,539] [5    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: df298782-2739-48be-8018-3e45a582c7d8
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 059B2E6E
+- log callback: 059B2996
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:29:07,546] [5    ] [INFO ] [] - Recording metric - name: UpgradeServiceStarted
+[2024-09-09 16:29:07,554] [5    ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:29:07,582] [15   ] [INFO ] [] - Application "Box Edit" running for user "FERALLOY\pcedillo"
+[2024-09-09 16:29:07,589] [15   ] [INFO ] [] - Handling application message
+[2024-09-09 16:29:07,590] [18   ] [INFO ] [] - Attempt #1 to connect to named pipe box_edit_pipe1
+[2024-09-09 16:29:07,591] [18   ] [INFO ] [] - The named pipe box_edit_pipe1 is connected
+[2024-09-09 16:29:07,593] [15   ] [INFO ] [] - Elapsed time to handle application_command: 00:00:00.0044033
+[2024-09-09 16:39:06,259] [21   ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:39:06,269] [21   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:39:06,270] [21   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: df298782-2739-48be-8018-3e45a582c7d8
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 059B2E6E
+- log callback: 059B2996
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:39:06,282] [21   ] [INFO ] [] - Posting metric to endpoint
+[2024-09-09 16:39:06,676] [21   ] [INFO ] [] - Metrics sent to the endpoint
+[2024-09-09 16:39:06,683] [21   ] [INFO ] [] - Shutting down the metrics collector
+[2024-09-09 16:49:06,239] [5    ] [INFO ] [] - Initializing the metrics collector
+[2024-09-09 16:49:06,245] [5    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-09-09 16:49:06,245] [5    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: df298782-2739-48be-8018-3e45a582c7d8
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.26.1.1109
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 059B2E6E
+- log callback: 059B2996
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-09-09 16:49:06,256] [5    ] [INFO ] [] - Shutting down the metrics collector

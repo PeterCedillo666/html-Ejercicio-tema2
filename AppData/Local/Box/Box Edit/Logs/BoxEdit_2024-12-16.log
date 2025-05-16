@@ -1,0 +1,105 @@
+[2025-01-08 00:20:22,249] [23   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-01-08 00:20:22,258] [23   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-01-08 00:20:22,258] [23   ] [INFO ] [] - Checking for upgrade
+[2025-01-08 00:20:22,261] [23   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-01-08 00:20:22,262] [23   ] [INFO ] [] - result: True
+[2025-01-08 00:20:22,266] [23   ] [INFO ] [] - Checking for upgrades
+[2025-01-08 00:20:22,267] [23   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-01-08 00:20:26,742] [23   ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.FileOperations.DownloadManifest(String url)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2025-01-08 00:20:26,743] [23   ] [ERROR] [] - UpgradeService.CheckForUpgrades on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+   en Box.Edit.UpgradeService.UpgradeService.CheckForUpgrades()
+[2025-01-08 00:20:26,743] [23   ] [INFO ] [] - Check for updates returned Retry
+[2025-01-08 00:20:26,743] [23   ] [INFO ] [] - Attempting update retry - attempt: 0
+[2025-01-08 00:20:26,743] [23   ] [INFO ] [] - Scheduling next upgrade check: Retry
+[2025-01-08 00:20:26,744] [23   ] [INFO ] [] - Next autoupgrade timer will fire after: 00:01:00
+[2025-01-08 00:20:26,765] [23   ] [INFO ] [] - Recorded AU metric.
+[2025-01-08 00:21:26,753] [33   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-01-08 00:21:26,754] [33   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-01-08 00:21:26,755] [33   ] [INFO ] [] - Checking for upgrade
+[2025-01-08 00:21:26,756] [33   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-01-08 00:21:26,756] [33   ] [INFO ] [] - result: True
+[2025-01-08 00:21:26,759] [33   ] [INFO ] [] - Checking for upgrades
+[2025-01-08 00:21:26,759] [33   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-01-08 00:21:37,879] [33   ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.FileOperations.DownloadManifest(String url)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2025-01-08 00:21:37,880] [33   ] [ERROR] [] - UpgradeService.CheckForUpgrades on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+   en Box.Edit.UpgradeService.UpgradeService.CheckForUpgrades()
+[2025-01-08 00:21:37,881] [33   ] [INFO ] [] - Check for updates returned Retry
+[2025-01-08 00:21:37,881] [33   ] [INFO ] [] - Attempting update retry - attempt: 1
+[2025-01-08 00:21:37,881] [33   ] [INFO ] [] - Scheduling next upgrade check: Retry
+[2025-01-08 00:21:37,882] [33   ] [INFO ] [] - Next autoupgrade timer will fire after: 00:01:00
+[2025-01-08 00:21:37,883] [33   ] [INFO ] [] - Recorded AU metric.
+[2025-01-08 00:22:37,896] [33   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-01-08 00:22:37,898] [33   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-01-08 00:22:37,898] [33   ] [INFO ] [] - Checking for upgrade
+[2025-01-08 00:22:37,899] [33   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-01-08 00:22:37,899] [33   ] [INFO ] [] - result: True
+[2025-01-08 00:22:37,902] [33   ] [INFO ] [] - Checking for upgrades
+[2025-01-08 00:22:37,903] [33   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-01-08 00:22:49,009] [33   ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.FileOperations.DownloadManifest(String url)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2025-01-08 00:22:49,011] [33   ] [ERROR] [] - UpgradeService.CheckForUpgrades on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+   en Box.Edit.UpgradeService.UpgradeService.CheckForUpgrades()
+[2025-01-08 00:22:49,011] [33   ] [INFO ] [] - Check for updates returned Retry
+[2025-01-08 00:22:49,012] [33   ] [INFO ] [] - Attempting update retry - attempt: 2
+[2025-01-08 00:22:49,012] [33   ] [INFO ] [] - Scheduling next upgrade check: Retry
+[2025-01-08 00:22:49,013] [33   ] [INFO ] [] - Next autoupgrade timer will fire after: 00:01:00
+[2025-01-08 00:22:49,018] [33   ] [INFO ] [] - Recorded AU metric.
+[2025-01-08 00:23:49,016] [33   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-01-08 00:23:49,016] [33   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-01-08 00:23:49,018] [33   ] [INFO ] [] - Checking for upgrade
+[2025-01-08 00:23:49,018] [33   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-01-08 00:23:49,018] [33   ] [INFO ] [] - result: True
+[2025-01-08 00:23:49,020] [33   ] [INFO ] [] - Checking for upgrades
+[2025-01-08 00:23:49,020] [33   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-01-08 00:23:58,530] [33   ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.FileOperations.DownloadManifest(String url)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2025-01-08 00:23:58,531] [33   ] [ERROR] [] - UpgradeService.CheckForUpgrades on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+   en Box.Edit.UpgradeService.UpgradeService.CheckForUpgrades()
+[2025-01-08 00:23:58,532] [33   ] [INFO ] [] - Check for updates returned Retry
+[2025-01-08 00:23:58,533] [33   ] [INFO ] [] - Attempting update retry - attempt: 3
+[2025-01-08 00:23:58,533] [33   ] [INFO ] [] - Scheduling next upgrade check: Retry
+[2025-01-08 00:23:58,533] [33   ] [INFO ] [] - Next autoupgrade timer will fire after: 00:01:00
+[2025-01-08 00:23:58,536] [33   ] [INFO ] [] - Recorded AU metric.
+[2025-01-08 00:24:58,545] [36   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-01-08 00:24:58,546] [36   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-01-08 00:24:58,546] [36   ] [INFO ] [] - Checking for upgrade
+[2025-01-08 00:24:58,547] [36   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-01-08 00:24:58,548] [36   ] [INFO ] [] - result: True
+[2025-01-08 00:24:58,552] [36   ] [INFO ] [] - Checking for upgrades
+[2025-01-08 00:24:58,552] [36   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-01-08 00:25:02,963] [36   ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.FileOperations.DownloadManifest(String url)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2025-01-08 00:25:02,964] [36   ] [ERROR] [] - UpgradeService.CheckForUpgrades on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+   en Box.Edit.UpgradeService.UpgradeService.CheckForUpgrades()
+[2025-01-08 00:25:02,964] [36   ] [INFO ] [] - Check for updates returned Retry
+[2025-01-08 00:25:02,965] [36   ] [ERROR] [] - Performed too many retries
+[2025-01-08 00:25:02,965] [36   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-01-08 00:25:02,965] [36   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-01-08 00:25:02,968] [36   ] [INFO ] [] - Recorded AU metric.

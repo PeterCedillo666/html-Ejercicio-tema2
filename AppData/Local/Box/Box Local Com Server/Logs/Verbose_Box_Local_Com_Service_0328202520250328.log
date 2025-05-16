@@ -1,0 +1,69 @@
+[2025-03-28 10:43:50,819] [1    ] [INFO ] [] - Attempt to acquire Single Instance Mutex
+[2025-03-28 10:43:54,616] [1    ] [INFO ] [] - ========== Box Local Com Server v4.28.1.1163 ==========
+[2025-03-28 10:43:54,632] [1    ] [INFO ] [] - Running as a per-user installation
+[2025-03-28 10:43:57,078] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2025-03-28 10:43:57,243] [1    ] [INFO ] [] - Starting server...
+[2025-03-28 10:43:57,657] [1    ] [INFO ] [] - Server running. Listening to port 17223
+[2025-03-28 10:43:57,776] [1    ] [INFO ] [] - Working with debug logging OFF
+[2025-03-28 10:43:58,412] [7    ] [INFO ] [] - Initializing the metrics collector
+[2025-03-28 10:44:01,957] [5    ] [INFO ] [] - Initializing the metrics collector
+[2025-03-28 10:44:03,340] [7    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2025-03-28 10:44:08,151] [7    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 9d89a9bb-67ab-4b91-a090-8bcfd5932064
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.28.1.1163
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics_EFD61745.db
+- post callback: 05E027FE
+- log callback: 05E02826
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2025-03-28 10:44:08,204] [5    ] [ERROR] [] - MetricsCollector::Initialize(171): Check Failed: !IsConfigured() - Return: MetricResult_InvalidState
+[2025-03-28 10:44:08,209] [5    ] [ERROR] [] - Failed to initialized metrics collector - error: 2
+[2025-03-28 10:44:08,205] [7    ] [INFO ] [] - Recording metric - name: ComServerStart
+[2025-03-28 10:44:10,111] [5    ] [INFO ] [] - Shutting down the metrics collector
+[2025-03-28 10:44:10,906] [7    ] [INFO ] [] - Shutting down the metrics collector
+[2025-03-28 10:44:10,961] [7    ] [ERROR] [] - Failed to shutdown metrics collector - error: 2
+[2025-03-28 10:48:59,539] [3    ] [INFO ] [] - Accepted Origin
+[2025-03-28 10:49:00,014] [3    ] [INFO ] [] - Handling status request
+[2025-03-28 10:54:01,862] [6    ] [INFO ] [] - Initializing the metrics collector
+[2025-03-28 10:54:01,903] [6    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2025-03-28 10:54:01,907] [6    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 9d89a9bb-67ab-4b91-a090-8bcfd5932064
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.28.1.1163
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics_EFD61745.db
+- post callback: 05E027FE
+- log callback: 05E02826
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2025-03-28 10:54:01,977] [6    ] [INFO ] [] - Shutting down the metrics collector
+[2025-03-28 11:04:03,110] [7    ] [INFO ] [] - Initializing the metrics collector
+[2025-03-28 11:04:03,126] [7    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2025-03-28 11:04:03,128] [7    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 9d89a9bb-67ab-4b91-a090-8bcfd5932064
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.28.1.1163
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics_EFD61745.db
+- post callback: 05E027FE
+- log callback: 05E02826
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2025-03-28 11:04:03,155] [7    ] [INFO ] [] - Shutting down the metrics collector

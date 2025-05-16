@@ -1,0 +1,2672 @@
+[2024-12-04 00:09:01,798] [73   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 00:09:01,812] [73   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 00:09:01,812] [73   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 00:09:01,813] [73   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 00:19:01,786] [72   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 00:19:01,799] [72   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 00:19:01,801] [72   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 00:19:01,803] [72   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 00:29:01,781] [74   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 00:29:01,797] [74   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 00:29:01,797] [74   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 00:29:01,813] [74   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 00:39:01,768] [75   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 00:39:01,768] [75   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 00:39:01,768] [75   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 00:39:01,784] [75   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 00:49:01,756] [77   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 00:49:01,771] [77   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 00:49:01,771] [77   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 00:49:01,788] [77   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 00:59:01,748] [76   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 00:59:01,751] [76   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 00:59:01,764] [76   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 00:59:01,780] [76   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 01:09:01,746] [78   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 01:09:01,762] [78   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 01:09:01,762] [78   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 01:09:01,778] [78   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 01:14:03,624] [80   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2024-12-04 01:14:03,624] [80   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2024-12-04 01:14:03,624] [80   ] [INFO ] [] - Checking for upgrade
+[2024-12-04 01:14:03,624] [80   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-12-04 01:14:03,624] [80   ] [INFO ] [] - result: True
+[2024-12-04 01:14:03,640] [80   ] [INFO ] [] - Checking for upgrades
+[2024-12-04 01:14:03,640] [80   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - ### current version track name: 4.27.1
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - No custom track name in registry
+[2024-12-04 01:14:04,211] [80   ] [WARN ] [] - Track 4.27.1 not found
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - Track default for upgrade found
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - RolloutID set to 63
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - No upgrade available
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - Check for updates returned None
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2024-12-04 01:14:04,211] [80   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:53:00
+[2024-12-04 01:19:01,747] [82   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 01:19:01,779] [82   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 01:19:01,779] [82   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 01:19:01,795] [82   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 01:29:01,742] [81   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 01:29:01,758] [81   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 01:29:01,758] [81   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 01:29:01,774] [81   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 01:39:01,727] [80   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 01:39:01,727] [80   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 01:39:01,727] [80   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 01:39:01,727] [80   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 01:49:01,743] [78   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 01:49:01,759] [78   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 01:49:01,759] [78   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 01:49:01,759] [78   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 01:59:01,744] [76   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 01:59:01,759] [76   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 01:59:01,759] [76   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 01:59:01,775] [76   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 02:09:01,730] [77   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 02:09:01,730] [77   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 02:09:01,745] [77   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 02:09:01,745] [77   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 02:19:01,732] [75   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 02:19:01,748] [75   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 02:19:01,748] [75   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 02:19:01,764] [75   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 02:29:01,722] [74   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 02:29:01,722] [74   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 02:29:01,737] [74   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 02:29:01,751] [74   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 02:39:01,725] [72   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 02:39:01,725] [72   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 02:39:01,741] [72   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 02:39:01,745] [72   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 02:49:01,707] [73   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 02:49:01,723] [73   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 02:49:01,723] [73   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 02:49:01,723] [73   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 02:59:01,711] [71   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 02:59:01,711] [71   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 02:59:01,711] [71   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 02:59:01,730] [71   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 03:09:01,711] [71   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 03:09:01,743] [71   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 03:09:01,743] [71   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 03:09:01,759] [71   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 03:19:06,681] [71   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 03:19:06,687] [71   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 03:19:06,697] [71   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 03:19:06,697] [71   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 03:29:08,440] [72   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 03:29:08,444] [72   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 03:29:08,444] [72   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 03:29:08,456] [72   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 03:39:08,184] [73   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 03:39:08,200] [73   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 03:39:08,200] [73   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 03:39:08,218] [73   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 03:49:08,235] [74   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 03:49:08,240] [74   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 03:49:08,240] [74   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 03:49:08,252] [74   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 03:59:08,131] [75   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 03:59:08,147] [75   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 03:59:08,147] [75   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 03:59:08,163] [75   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 04:09:08,143] [77   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 04:09:08,156] [77   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 04:09:08,158] [77   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 04:09:08,175] [77   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 04:19:08,102] [76   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 04:19:08,118] [76   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 04:19:08,121] [76   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 04:19:08,136] [76   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 04:29:08,044] [78   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 04:29:08,044] [78   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 04:29:08,044] [78   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 04:29:08,053] [78   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 04:39:08,032] [69   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 04:39:08,048] [69   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 04:39:08,048] [69   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 04:39:08,064] [69   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 04:49:07,958] [70   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 04:49:07,976] [70   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 04:49:07,976] [70   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 04:49:07,990] [70   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 04:59:07,976] [68   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 04:59:07,992] [68   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 04:59:07,992] [68   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 04:59:07,992] [68   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 05:09:08,030] [65   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 05:09:08,046] [65   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 05:09:08,046] [65   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 05:09:08,062] [65   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 05:19:07,908] [67   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 05:19:07,923] [67   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 05:19:07,923] [67   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 05:19:07,939] [67   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 05:29:07,832] [66   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 05:29:07,847] [66   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 05:29:07,847] [66   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 05:29:07,863] [66   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 05:39:07,867] [64   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 05:39:07,867] [64   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 05:39:07,867] [64   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 05:39:07,882] [64   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 05:49:07,917] [63   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 05:49:07,917] [63   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 05:49:07,917] [63   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 05:49:07,949] [63   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 05:59:07,695] [62   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 05:59:07,695] [62   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 05:59:07,711] [62   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 05:59:07,722] [62   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 06:09:07,711] [61   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 06:09:07,721] [61   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 06:09:07,721] [61   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 06:09:07,727] [61   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 06:19:07,756] [60   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 06:19:07,758] [60   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 06:19:07,758] [60   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 06:19:07,775] [60   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 06:29:07,612] [59   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 06:29:07,628] [59   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 06:29:07,628] [59   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 06:29:07,644] [59   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 06:39:07,601] [56   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 06:39:07,617] [56   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 06:39:07,617] [56   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 06:39:07,617] [56   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 06:49:07,613] [58   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 06:49:07,626] [58   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 06:49:07,629] [58   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 06:49:07,645] [58   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 06:59:07,606] [57   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 06:59:07,606] [57   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 06:59:07,622] [57   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 06:59:07,625] [57   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 07:07:09,680] [55   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2024-12-04 07:07:09,680] [55   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2024-12-04 07:07:09,680] [55   ] [INFO ] [] - Checking for upgrade
+[2024-12-04 07:07:09,680] [55   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-12-04 07:07:09,680] [55   ] [INFO ] [] - result: True
+[2024-12-04 07:07:09,680] [55   ] [INFO ] [] - Checking for upgrades
+[2024-12-04 07:07:09,680] [55   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - ### current version track name: 4.27.1
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - No custom track name in registry
+[2024-12-04 07:07:10,034] [55   ] [WARN ] [] - Track 4.27.1 not found
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - Track default for upgrade found
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - RolloutID set to 63
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - No upgrade available
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - Check for updates returned None
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2024-12-04 07:07:10,034] [55   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:57:00
+[2024-12-04 07:09:07,513] [53   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 07:09:07,525] [53   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 07:09:07,525] [53   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 07:09:07,541] [53   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 07:19:07,492] [52   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 07:19:07,492] [52   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 07:19:07,508] [52   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 07:19:07,508] [52   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 07:29:07,520] [51   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 07:29:07,527] [51   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 07:29:07,527] [51   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 07:29:07,536] [51   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 07:39:07,436] [50   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 07:39:07,441] [50   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 07:39:07,452] [50   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 07:39:07,454] [50   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 07:49:07,383] [49   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 07:49:07,399] [49   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 07:49:07,399] [49   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 07:49:07,399] [49   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 07:59:07,382] [48   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 07:59:07,398] [48   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 07:59:07,398] [48   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 07:59:07,414] [48   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 08:09:07,330] [47   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 08:09:07,332] [47   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 08:09:07,332] [47   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 08:09:07,354] [47   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 08:19:07,240] [45   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 08:19:07,255] [45   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 08:19:07,255] [45   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 08:19:07,271] [45   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 08:29:07,228] [46   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 08:29:07,244] [46   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 08:29:07,244] [46   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 08:29:07,259] [46   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 08:39:07,258] [44   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 08:39:07,274] [44   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 08:39:07,274] [44   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 08:39:07,288] [44   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 08:49:07,278] [43   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 08:49:07,278] [43   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 08:49:07,294] [43   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 08:49:07,310] [43   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 08:59:07,324] [42   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 08:59:07,339] [42   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 08:59:07,340] [42   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 08:59:07,353] [42   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 09:09:07,368] [40   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 09:09:07,384] [40   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 09:09:07,384] [40   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 09:09:07,384] [40   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 09:19:07,219] [41   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 09:19:07,219] [41   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 09:19:07,219] [41   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 09:19:07,235] [41   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 09:29:07,056] [39   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 09:29:07,060] [39   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 09:29:07,060] [39   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 09:29:07,076] [39   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 09:39:06,989] [37   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 09:39:07,005] [37   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 09:39:07,005] [37   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 09:39:07,021] [37   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 09:49:06,983] [38   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 09:49:06,983] [38   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 09:49:06,983] [38   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 09:49:07,003] [38   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 09:59:07,004] [36   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 09:59:07,019] [36   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 09:59:07,020] [36   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 09:59:07,033] [36   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 10:09:07,048] [35   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 10:09:07,064] [35   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 10:09:07,064] [35   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 10:09:07,080] [35   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 10:19:07,092] [34   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 10:19:07,108] [34   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 10:19:07,108] [34   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 10:19:07,124] [34   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 10:29:06,897] [33   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 10:29:06,904] [33   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 10:29:06,904] [33   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 10:29:06,919] [33   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 10:39:06,752] [31   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 10:39:06,767] [31   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 10:39:06,767] [31   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 10:39:06,784] [31   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 10:49:06,712] [32   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 10:49:06,725] [32   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 10:49:06,729] [32   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 10:49:06,729] [32   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 10:59:06,699] [30   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 10:59:06,699] [30   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 10:59:06,716] [30   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 10:59:06,716] [30   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 11:09:06,715] [29   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 11:09:06,721] [29   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 11:09:06,721] [29   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 11:09:06,724] [29   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 11:19:06,733] [28   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 11:19:06,733] [28   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 11:19:06,733] [28   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 11:19:06,754] [28   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 11:29:06,771] [27   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 11:29:06,775] [27   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 11:29:06,775] [27   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 11:29:06,782] [27   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 11:39:06,602] [26   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 11:39:06,618] [26   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 11:39:06,618] [26   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 11:39:06,634] [26   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 11:49:06,549] [25   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 11:49:06,565] [25   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 11:49:06,565] [25   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 11:49:06,569] [25   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 11:59:06,509] [24   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 11:59:06,525] [24   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 11:59:06,525] [24   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 11:59:06,541] [24   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 12:09:06,509] [23   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 12:09:06,524] [23   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 12:09:06,524] [23   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 12:09:06,524] [23   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 12:19:06,515] [9    ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 12:19:06,528] [9    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 12:19:06,528] [9    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 12:19:06,536] [9    ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 12:29:06,539] [7    ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 12:29:06,546] [7    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 12:29:06,546] [7    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 12:29:06,555] [7    ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 12:39:06,550] [12   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 12:39:06,566] [12   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 12:39:06,566] [12   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 12:39:06,582] [12   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 12:49:06,436] [11   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 12:49:06,436] [11   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 12:49:06,436] [11   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 12:49:06,436] [11   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 12:59:06,359] [13   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 12:59:06,375] [13   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 12:59:06,375] [13   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 12:59:06,390] [13   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 13:04:08,483] [3    ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2024-12-04 13:04:08,483] [3    ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2024-12-04 13:04:08,483] [3    ] [INFO ] [] - Checking for upgrade
+[2024-12-04 13:04:08,483] [3    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-12-04 13:04:08,483] [3    ] [INFO ] [] - result: True
+[2024-12-04 13:04:08,483] [3    ] [INFO ] [] - Checking for upgrades
+[2024-12-04 13:04:08,483] [3    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - ### current version track name: 4.27.1
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - No custom track name in registry
+[2024-12-04 13:04:08,704] [3    ] [WARN ] [] - Track 4.27.1 not found
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - Track default for upgrade found
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - RolloutID set to 63
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - No upgrade available
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - Check for updates returned None
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2024-12-04 13:04:08,704] [3    ] [INFO ] [] - Next autoupgrade timer will fire after: 05:35:00
+[2024-12-04 13:09:06,318] [17   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 13:09:06,334] [17   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 13:09:06,334] [17   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 13:09:06,350] [17   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 13:19:06,297] [14   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 13:19:06,313] [14   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 13:19:06,313] [14   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 13:19:06,329] [14   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 13:29:06,286] [15   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 13:29:06,302] [15   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 13:29:06,302] [15   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 13:29:06,318] [15   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 13:39:06,301] [8    ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 13:39:06,316] [8    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 13:39:06,316] [8    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 13:39:06,332] [8    ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 13:49:06,293] [20   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 13:49:06,308] [20   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 13:49:06,308] [20   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 13:49:06,325] [20   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 13:59:06,160] [21   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 13:59:06,164] [21   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 13:59:06,164] [21   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 13:59:06,190] [21   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 14:09:06,093] [19   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 14:09:06,108] [19   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 14:09:06,109] [19   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 14:09:06,109] [19   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 14:19:06,046] [22   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 14:19:06,062] [22   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 14:19:06,062] [22   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 14:19:06,078] [22   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 14:29:06,018] [79   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 14:29:06,034] [79   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 14:29:06,034] [79   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 14:29:06,043] [79   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 14:39:06,021] [80   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 14:39:06,037] [80   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 14:39:06,037] [80   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 14:39:06,053] [80   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 14:49:06,021] [81   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 14:49:06,023] [81   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 14:49:06,023] [81   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 14:49:06,047] [81   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 14:59:05,977] [80   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 14:59:05,983] [80   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 14:59:05,983] [80   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 14:59:05,994] [80   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 15:09:05,857] [79   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 15:09:05,857] [79   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 15:09:05,857] [79   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 15:09:05,872] [79   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 15:19:05,783] [22   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 15:19:05,783] [22   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 15:19:05,783] [22   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 15:19:05,792] [22   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 15:29:05,747] [19   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 15:29:05,765] [19   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 15:29:05,765] [19   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 15:29:05,779] [19   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 15:39:05,728] [21   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 15:39:05,744] [21   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 15:39:05,744] [21   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 15:39:05,760] [21   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 15:49:05,734] [20   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 15:49:05,750] [20   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 15:49:05,750] [20   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 15:49:05,766] [20   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 15:59:05,736] [21   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 15:59:05,751] [21   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 15:59:05,752] [21   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 15:59:05,767] [21   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 16:09:05,753] [19   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 16:09:05,769] [19   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 16:09:05,769] [19   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 16:09:05,785] [19   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 16:19:05,783] [22   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 16:19:05,798] [22   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 16:19:05,803] [22   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 16:19:05,814] [22   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 16:29:05,819] [15   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 16:29:05,834] [15   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 16:29:05,834] [15   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 16:29:05,850] [15   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 16:39:05,858] [8    ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 16:39:05,858] [8    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 16:39:05,858] [8    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 16:39:05,882] [8    ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 16:49:05,881] [14   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 16:49:05,897] [14   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 16:49:05,897] [14   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 16:49:05,913] [14   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 16:59:05,921] [17   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 16:59:05,933] [17   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 16:59:05,933] [17   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 16:59:05,947] [17   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 17:09:05,955] [16   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 17:09:05,970] [16   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 17:09:05,970] [16   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 17:09:05,970] [16   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 17:19:05,757] [3    ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 17:19:05,773] [3    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 17:19:05,774] [3    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 17:19:05,778] [3    ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 17:29:05,544] [11   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 17:29:05,560] [11   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 17:29:05,560] [11   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 17:29:05,576] [11   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 17:39:05,410] [13   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 17:39:05,413] [13   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 17:39:05,425] [13   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 17:39:05,425] [13   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 17:49:05,327] [7    ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 17:49:05,343] [7    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 17:49:05,343] [7    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 17:49:05,359] [7    ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 17:59:05,274] [12   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 17:59:05,278] [12   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 17:59:05,278] [12   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 17:59:05,290] [12   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 18:09:05,244] [20   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 18:09:05,260] [20   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 18:09:05,260] [20   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 18:09:05,276] [20   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 18:19:05,228] [9    ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 18:19:05,228] [9    ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 18:19:05,228] [9    ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 18:19:05,244] [9    ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 18:29:05,236] [23   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 18:29:05,243] [23   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 18:29:05,243] [23   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 18:29:05,262] [23   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 18:39:05,247] [24   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 18:39:05,263] [24   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 18:39:05,263] [24   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 18:39:05,280] [24   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 18:39:07,310] [26   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2024-12-04 18:39:07,310] [26   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2024-12-04 18:39:07,310] [26   ] [INFO ] [] - Checking for upgrade
+[2024-12-04 18:39:07,310] [26   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-12-04 18:39:07,310] [26   ] [INFO ] [] - result: True
+[2024-12-04 18:39:07,310] [26   ] [INFO ] [] - Checking for upgrades
+[2024-12-04 18:39:07,310] [26   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - ### current version track name: 4.27.1
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - No custom track name in registry
+[2024-12-04 18:39:07,757] [26   ] [WARN ] [] - Track 4.27.1 not found
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - Track default for upgrade found
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - RolloutID set to 63
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - No upgrade available
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - Check for updates returned None
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2024-12-04 18:39:07,757] [26   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:04:00
+[2024-12-04 18:49:05,270] [25   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 18:49:05,286] [25   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 18:49:05,286] [25   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 18:49:05,302] [25   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 18:59:05,298] [28   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 18:59:05,305] [28   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 18:59:05,312] [28   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 18:59:05,312] [28   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 19:09:05,321] [29   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 19:09:05,336] [29   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 19:09:05,336] [29   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 19:09:05,352] [29   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 19:19:05,361] [30   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 19:19:05,373] [30   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 19:19:05,373] [30   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 19:19:05,386] [30   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 19:29:05,361] [31   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 19:29:05,377] [31   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 19:29:05,377] [31   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 19:29:05,393] [31   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 19:39:05,094] [32   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 19:39:05,110] [32   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 19:39:05,110] [32   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 19:39:05,126] [32   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 19:49:04,920] [33   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 19:49:04,920] [33   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 19:49:04,920] [33   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 19:49:04,941] [33   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 19:59:04,798] [34   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 19:59:04,798] [34   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 19:59:04,798] [34   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 19:59:04,825] [34   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 20:09:04,717] [35   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 20:09:04,730] [35   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 20:09:04,730] [35   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 20:09:04,746] [35   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 20:19:04,696] [36   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 20:19:04,712] [36   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 20:19:04,712] [36   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 20:19:04,728] [36   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 20:29:04,669] [38   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 20:29:04,685] [38   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 20:29:04,685] [38   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 20:29:04,702] [38   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 20:39:04,655] [37   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 20:39:04,671] [37   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 20:39:04,671] [37   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 20:39:04,687] [37   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 20:49:04,661] [39   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 20:49:04,677] [39   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 20:49:04,677] [39   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 20:49:04,680] [39   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 20:59:04,673] [41   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 20:59:04,678] [41   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 20:59:04,678] [41   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 20:59:04,689] [41   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 21:09:04,699] [40   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 21:09:04,714] [40   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 21:09:04,714] [40   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 21:09:04,731] [40   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 21:19:04,732] [42   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 21:19:04,748] [42   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 21:19:04,748] [42   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 21:19:04,764] [42   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 21:29:04,770] [44   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 21:29:04,781] [44   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 21:29:04,781] [44   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 21:29:04,786] [44   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 21:39:04,803] [43   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 21:39:04,805] [43   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 21:39:04,805] [43   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 21:39:04,819] [43   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 21:49:04,688] [46   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 21:49:04,704] [46   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 21:49:04,704] [46   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 21:49:04,704] [46   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 21:59:04,582] [47   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 21:59:04,598] [47   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 21:59:04,598] [47   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 21:59:04,614] [47   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 22:09:04,501] [45   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 22:09:04,506] [45   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 22:09:04,517] [45   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 22:09:04,533] [45   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 22:19:04,440] [48   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 22:19:04,455] [48   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 22:19:04,455] [48   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 22:19:04,471] [48   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 22:29:04,388] [49   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 22:29:04,404] [49   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 22:29:04,404] [49   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 22:29:04,419] [49   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 22:39:04,351] [50   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 22:39:04,367] [50   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 22:39:04,367] [50   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 22:39:04,382] [50   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 22:49:04,337] [51   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 22:49:04,337] [51   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 22:49:04,349] [51   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 22:49:04,357] [51   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 22:59:04,324] [52   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 22:59:04,329] [52   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 22:59:04,340] [52   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 22:59:04,354] [52   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 23:09:04,314] [55   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 23:09:04,330] [55   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 23:09:04,330] [55   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 23:09:04,345] [55   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 23:19:04,300] [53   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 23:19:04,316] [53   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 23:19:04,316] [53   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 23:19:04,333] [53   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 23:29:04,300] [54   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 23:29:04,316] [54   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 23:29:04,316] [54   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 23:29:04,316] [54   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 23:39:04,307] [58   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 23:39:04,323] [58   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 23:39:04,323] [58   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 23:39:04,339] [58   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 23:43:06,545] [57   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2024-12-04 23:43:06,545] [57   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2024-12-04 23:43:06,545] [57   ] [INFO ] [] - Checking for upgrade
+[2024-12-04 23:43:06,545] [57   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-12-04 23:43:06,545] [57   ] [INFO ] [] - result: True
+[2024-12-04 23:43:06,545] [57   ] [INFO ] [] - Checking for upgrades
+[2024-12-04 23:43:06,545] [57   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-12-04 23:43:06,913] [57   ] [INFO ] [] - ### current version track name: 4.27.1
+[2024-12-04 23:43:06,913] [57   ] [INFO ] [] - No custom track name in registry
+[2024-12-04 23:43:06,913] [57   ] [WARN ] [] - Track 4.27.1 not found
+[2024-12-04 23:43:06,913] [57   ] [INFO ] [] - Track default for upgrade found
+[2024-12-04 23:43:06,913] [57   ] [INFO ] [] - RolloutID set to 63
+[2024-12-04 23:43:06,913] [57   ] [INFO ] [] - No upgrade available
+[2024-12-04 23:43:06,925] [57   ] [INFO ] [] - Check for updates returned None
+[2024-12-04 23:43:06,925] [57   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2024-12-04 23:43:06,925] [57   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:04:00
+[2024-12-04 23:49:04,325] [59   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 23:49:04,341] [59   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 23:49:04,341] [59   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 23:49:04,358] [59   ] [INFO ] [] - Shutting down the metrics collector
+[2024-12-04 23:59:04,349] [61   ] [INFO ] [] - Initializing the metrics collector
+[2024-12-04 23:59:04,354] [61   ] [INFO ] [] - MetricsCollector::Sender(49): _disableSentMetrics 1
+[2024-12-04 23:59:04,354] [61   ] [INFO ] [] - MetricsCollector::Initialize(231): Initialized metrics collector
+- session id: 2d67d98c-e189-4bba-b6f5-1753997623da
+- device id: 4ca35884-a93a-48fc-ad16-80b2a90aa32e
+- application id: Box Tools Win exe
+- application name: BoxTools
+- application version: 4.27.1.1145
+- metric collection url: https://client-log.box.com/index.php?rm=box_gen204_json_record
+- metric data path: C:\Users\pcedillo\AppData\Local\Box\Box Tools\Metrics\BoxTools_Metrics.db
+- post callback: 05915CA6
+- log callback: 05915CCE
+- context: 00000000
+- post interval in seconds: 600
+- max records in a post: 100
+- max db records: 500
+- disable sender: true
+[2024-12-04 23:59:04,365] [61   ] [INFO ] [] - Shutting down the metrics collector

@@ -1,0 +1,66 @@
+[2025-05-07 07:34:05,871] [3    ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:05,882] [50   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:05,973] [27   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:05,975] [27   ] [INFO ] [] - Handling status request
+[2025-05-07 07:34:06,016] [27   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:06,024] [27   ] [INFO ] [] - Handling status request
+[2025-05-07 07:34:09,040] [3    ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:09,068] [3    ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:09,342] [50   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:09,364] [50   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:09,366] [50   ] [INFO ] [] - Handling status request
+[2025-05-07 07:34:09,496] [3    ] [INFO ] [] - Checking executable signing ceritifcate
+[2025-05-07 07:34:11,137] [50   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:11,154] [50   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:34:11,158] [50   ] [INFO ] [] - Checking executable signing ceritifcate
+[2025-05-07 07:34:11,496] [3    ] [INFO ] [] - Application "Box Edit" running for user "FERALLOY\pcedillo"
+[2025-05-07 07:34:11,532] [50   ] [INFO ] [] - Application "Box Edit" running for user "FERALLOY\pcedillo"
+[2025-05-07 07:34:11,583] [3    ] [INFO ] [] - Handling application_request
+[2025-05-07 07:34:11,587] [50   ] [INFO ] [] - Handling application_request
+[2025-05-07 07:34:11,671] [21   ] [INFO ] [] - Attempt #1 to connect to named pipe box_edit_pipe1
+[2025-05-07 07:34:11,671] [20   ] [INFO ] [] - Attempt #1 to connect to named pipe box_edit_pipe1
+[2025-05-07 07:34:11,721] [21   ] [INFO ] [] - The named pipe box_edit_pipe1 is connected
+[2025-05-07 07:34:12,229] [20   ] [INFO ] [] - Attempt #2 to connect to named pipe box_edit_pipe1
+[2025-05-07 07:34:12,741] [20   ] [INFO ] [] - Attempt #3 to connect to named pipe box_edit_pipe1
+[2025-05-07 07:34:13,017] [17   ] [INFO ] [] - Received 87 bytes from application boxedit
+[2025-05-07 07:34:13,025] [17   ] [INFO ] [] - Disconnected from box_edit_pipe1
+[2025-05-07 07:34:13,030] [20   ] [INFO ] [] - The named pipe box_edit_pipe1 is connected
+[2025-05-07 07:34:13,040] [3    ] [INFO ] [] - Received {"response_type":"get_default_application","default_application_name":{"xlsx":"Excel"}} from application boxedit
+[2025-05-07 07:34:13,042] [3    ] [INFO ] [] - Elapsed time to handle application_request: 00:00:01.4596464
+[2025-05-07 07:34:13,093] [40   ] [INFO ] [] - Received 87 bytes from application boxedit
+[2025-05-07 07:34:13,095] [40   ] [INFO ] [] - Disconnected from box_edit_pipe1
+[2025-05-07 07:34:13,097] [50   ] [INFO ] [] - Received {"response_type":"get_default_application","default_application_name":{"xlsx":"Excel"}} from application boxedit
+[2025-05-07 07:34:13,098] [50   ] [INFO ] [] - Elapsed time to handle application_request: 00:00:01.5103394
+[2025-05-07 07:44:33,047] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:33,063] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:33,066] [14   ] [INFO ] [] - Handling status request
+[2025-05-07 07:44:43,825] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:43,829] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:43,831] [14   ] [INFO ] [] - Handling status request
+[2025-05-07 07:44:43,963] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:43,975] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:43,977] [14   ] [INFO ] [] - Checking executable signing ceritifcate
+[2025-05-07 07:44:44,078] [14   ] [INFO ] [] - Application "Box Edit" running for user "FERALLOY\pcedillo"
+[2025-05-07 07:44:44,084] [14   ] [INFO ] [] - Handling application_request
+[2025-05-07 07:44:44,087] [60   ] [INFO ] [] - Attempt #1 to connect to named pipe box_edit_pipe1
+[2025-05-07 07:44:44,096] [60   ] [INFO ] [] - The named pipe box_edit_pipe1 is connected
+[2025-05-07 07:44:44,360] [63   ] [INFO ] [] - Received 176 bytes from application boxedit
+[2025-05-07 07:44:44,360] [63   ] [INFO ] [] - Disconnected from box_edit_pipe1
+[2025-05-07 07:44:44,360] [14   ] [INFO ] [] - Received {"response_type":"get_default_application","default_application_name":[{"xlsx":"Excel"},{"doc":"Word"},{"txt":"Bloc de notas"},{"zip":"Explorador de Windows"},{"jpg":"Fotos"}]} from application boxedit
+[2025-05-07 07:44:44,360] [14   ] [INFO ] [] - Elapsed time to handle application_request: 00:00:00.2867509
+[2025-05-07 07:44:47,148] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:47,168] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:47,170] [14   ] [INFO ] [] - Handling status request
+[2025-05-07 07:44:48,686] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:48,704] [14   ] [INFO ] [] - Accepted Origin
+[2025-05-07 07:44:48,712] [14   ] [INFO ] [] - Checking executable signing ceritifcate
+[2025-05-07 07:44:49,078] [14   ] [INFO ] [] - Application "Box Edit" running for user "FERALLOY\pcedillo"
+[2025-05-07 07:44:49,103] [14   ] [INFO ] [] - Handling application_request
+[2025-05-07 07:44:49,108] [11   ] [INFO ] [] - Attempt #1 to connect to named pipe box_edit_pipe1
+[2025-05-07 07:44:49,117] [11   ] [INFO ] [] - The named pipe box_edit_pipe1 is connected
+[2025-05-07 07:44:49,189] [6    ] [INFO ] [] - Received 87 bytes from application boxedit
+[2025-05-07 07:44:49,197] [6    ] [INFO ] [] - Disconnected from box_edit_pipe1
+[2025-05-07 07:44:49,202] [14   ] [INFO ] [] - Received {"response_type":"get_default_application","default_application_name":{"xlsx":"Excel"}} from application boxedit
+[2025-05-07 07:44:49,205] [14   ] [INFO ] [] - Elapsed time to handle application_request: 00:00:00.1013651
+[2025-05-07 08:08:43,239] [20   ] [INFO ] [] - Accepted Origin
+[2025-05-07 08:08:43,243] [20   ] [INFO ] [] - Handling status request

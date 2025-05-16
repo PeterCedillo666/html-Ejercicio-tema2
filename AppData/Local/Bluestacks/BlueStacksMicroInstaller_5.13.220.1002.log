@@ -1,0 +1,29 @@
+﻿2023-11-08 09:35:54.947 39168:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2023-11-08 09:35:54.947 39168:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2023-11-08 09:35:54.952 39168:00000001 (BlueStacksInstaller) INFO: Successfully populated es-ES strings
+2023-11-08 09:35:54.952 39168:00000001 (BlueStacksInstaller) INFO: Populated strings for es-ES: True
+2023-11-08 09:35:55.003 39168:00000007 (BlueStacksInstaller) INFO: Old BGP version: 
+2023-11-08 09:35:55.003 39168:00000007 (BlueStacksInstaller) INFO: Arabica version: 
+2023-11-08 09:35:55.011 39168:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\pcedillo\AppData\Local\Temp\7zS42FFBFD8\:BlueStacksInstaller.exe "BlueStacksInstaller_5.13.220.1002_native_6b2eea387da6a21d0a5f09d8f4da86a1_MzsxNSwwOzUsMTsxNSw0OzE1.exe"
+2023-11-08 09:35:55.011 39168:00000007 (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\pcedillo\AppData\Local\Temp\7zS42FFBFD8\HD-CheckCpu.exe --cmd checkHypervEnabled
+2023-11-08 09:35:56.022 39168:00000007 (BlueStacksInstaller) INFO: RunCmd for pid: 6488, exited with ExitCode: 0 
+2023-11-08 09:35:56.022 39168:00000007 (BlueStacksInstaller) INFO: Hyperv state of the machine: enabled
+2023-11-08 09:35:56.026 39168:00000007 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.13.220.1002_native_6b2eea387da6a21d0a5f09d8f4da86a1_MzsxNSwwOzUsMTsxNSw0OzE1.exe
+2023-11-08 09:35:56.026 39168:00000007 (BlueStacksInstaller) INFO: Parsing: 6b2eea387da6a21d0a5f09d8f4da86a1_MzsxNSwwOzUsMTsxNSw0OzE1
+2023-11-08 09:35:56.035 39168:00000007 (BlueStacksInstaller) INFO: Getting installed images from conf
+2023-11-08 09:35:56.035 39168:00000007 (BlueStacksInstaller) INFO: Installed images: 
+2023-11-08 09:35:56.035 39168:00000007 (BlueStacksInstaller) INFO: Getting installed images from conf
+2023-11-08 09:35:56.042 39168:00000007 (BlueStacksInstaller) INFO: Installed images with abi: 
+2023-11-08 09:35:56.042 39168:00000007 (BlueStacksInstaller) INFO: Updating DefaultImageName to Pie64
+2023-11-08 09:35:56.042 39168:00000007 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Pie64
+2023-11-08 09:35:56.042 39168:00000007 (BlueStacksInstaller) INFO: Campaign: 6b2eea387da6a21d0a5f09d8f4da86a1, AppName: , Image: Pie64, AbiValue: 15
+2023-11-08 09:35:56.071 39168:00000007 (BlueStacksInstaller) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:de5acd26-5c29-4c38-81f3-e86539af5936
+2023-11-08 09:35:56.093 39168:00000007 (BlueStacksInstaller) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.13.220.1002:97779001-338a-43cb-ac63-9052ff312946
+2023-11-08 09:35:56.111 39168:00000007 (BlueStacksInstaller) INFO: Sending event mi_launched
+2023-11-08 09:35:56.635 39168:00000007 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": null, "campaign_name": "blog-bs5download-es", "exit_utm_campaign": "blog-bs5download-es", "app_icon_url": "", "app_pkg": "", "app_name": "", "promoter_id": "", "fle_tag": "", "incompatible": "false", "bsx_data": "{}", "transaction_id": "df54fedf-f503-450f-b30b-9d47387ae5c9"}}
+2023-11-08 10:03:40.896 39168:00000001 (BlueStacksInstaller) INFO: ExitApplication 0
+2023-11-08 10:03:41.008 39168:00000001 (BlueStacksInstaller) ERROR: Error in deleting file C:\ProgramData\BlueStacksServicesSetup.exe is Ex: System.UnauthorizedAccessException: Acceso denegado a la ruta de acceso 'C:\ProgramData\BlueStacksServicesSetup.exe'.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en BlueStacks.Common.IOUtils.DeleteOrPendMoveFile(String filePath)
+2023-11-08 10:03:41.372 39168:00000001 (BlueStacksInstaller) ERROR: Unable to schedule C:\ProgramData\BlueStacksServicesSetup.exe for deletion

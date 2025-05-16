@@ -1,0 +1,32 @@
+[2025-05-13 11:04:40,533] [62   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-05-13 11:04:40,541] [62   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-05-13 11:04:40,541] [62   ] [INFO ] [] - Checking for upgrade
+[2025-05-13 11:04:40,541] [62   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-05-13 11:04:40,541] [62   ] [INFO ] [] - result: True
+[2025-05-13 11:04:40,541] [62   ] [INFO ] [] - Checking for upgrades
+[2025-05-13 11:04:40,541] [62   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-05-13 11:04:41,004] [62   ] [INFO ] [] - ### current version track name: 4.28.1
+[2025-05-13 11:04:41,027] [62   ] [INFO ] [] - No custom track name in registry
+[2025-05-13 11:04:41,027] [62   ] [WARN ] [] - Track 4.28.1 not found
+[2025-05-13 11:04:41,029] [62   ] [INFO ] [] - Track default for upgrade found
+[2025-05-13 11:04:41,029] [62   ] [INFO ] [] - RolloutID set to 61
+[2025-05-13 11:04:41,029] [62   ] [INFO ] [] - Not upgrading because RolloutID is not in range
+[2025-05-13 11:04:41,031] [62   ] [INFO ] [] - Check for updates returned None
+[2025-05-13 11:04:41,031] [62   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2025-05-13 11:04:41,033] [62   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:39:00
+[2025-05-13 16:43:40,206] [62   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-05-13 16:43:40,208] [62   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-05-13 16:43:40,209] [62   ] [INFO ] [] - Checking for upgrade
+[2025-05-13 16:43:40,211] [62   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-05-13 16:43:40,213] [62   ] [INFO ] [] - result: True
+[2025-05-13 16:43:40,220] [62   ] [INFO ] [] - Checking for upgrades
+[2025-05-13 16:43:40,220] [62   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-05-13 16:43:40,959] [62   ] [INFO ] [] - ### current version track name: 4.28.1
+[2025-05-13 16:43:40,961] [62   ] [INFO ] [] - No custom track name in registry
+[2025-05-13 16:43:40,961] [62   ] [WARN ] [] - Track 4.28.1 not found
+[2025-05-13 16:43:40,962] [62   ] [INFO ] [] - Track default for upgrade found
+[2025-05-13 16:43:40,963] [62   ] [INFO ] [] - RolloutID set to 61
+[2025-05-13 16:43:40,963] [62   ] [INFO ] [] - Not upgrading because RolloutID is not in range
+[2025-05-13 16:43:40,964] [62   ] [INFO ] [] - Check for updates returned None
+[2025-05-13 16:43:40,965] [62   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2025-05-13 16:43:40,966] [62   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:05:00

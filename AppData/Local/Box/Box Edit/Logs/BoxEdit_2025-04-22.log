@@ -1,0 +1,23 @@
+[2025-05-14 09:24:55,544] [35   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2025-05-14 09:24:55,603] [35   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2025-05-14 09:24:55,605] [35   ] [INFO ] [] - Checking for upgrade
+[2025-05-14 09:24:55,613] [35   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2025-05-14 09:24:55,618] [35   ] [INFO ] [] - result: True
+[2025-05-14 09:24:55,662] [35   ] [INFO ] [] - Checking for upgrades
+[2025-05-14 09:24:55,669] [35   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2025-05-14 09:24:56,742] [35   ] [INFO ] [] - ### current version track name: 4.28.1
+[2025-05-14 09:24:56,749] [35   ] [INFO ] [] - No custom track name in registry
+[2025-05-14 09:24:56,752] [35   ] [WARN ] [] - Track 4.28.1 not found
+[2025-05-14 09:24:56,754] [35   ] [INFO ] [] - Track default for upgrade found
+[2025-05-14 09:24:56,758] [35   ] [INFO ] [] - RolloutID set to 61
+[2025-05-14 09:24:56,760] [35   ] [INFO ] [] - Newer version found 4.29.0.1189
+[2025-05-14 09:24:58,134] [35   ] [INFO ] [] - Looking for previously downloaded C:\Users\pcedillo\AppData\Local\Temp\Box\BoxTools\Downloads\BoxToolsUpgrade.msi.zip, checksum: e93abe4811f906f83eeebc42e35a0eac8c9470f3
+[2025-05-14 09:24:58,175] [35   ] [INFO ] [] - Cached installer was not found
+[2025-05-14 09:25:02,118] [35   ] [INFO ] [] - Download of upgrade https://e3.boxcdn.net/boxedit/upgrades/win/BoxToolsInstaller-UserUpgrade-4.29.0.1189.msi.zip to C:\Users\pcedillo\AppData\Local\Temp\Box\BoxTools\Downloads\BoxToolsUpgrade.msi.zip completed
+[2025-05-14 09:25:02,675] [35   ] [INFO ] [] - Upgrade verified correctly and passed SHA1 verification
+[2025-05-14 09:25:04,139] [35   ] [INFO ] [] - Upgrade extracted
+[2025-05-14 09:25:07,088] [35   ] [INFO ] [] - Installing upgrade
+[2025-05-14 09:25:07,892] [35   ] [INFO ] [] - Check for updates returned Success
+[2025-05-14 09:25:07,897] [35   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2025-05-14 09:25:07,901] [35   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:11:00
+[2025-05-14 09:25:07,999] [35   ] [INFO ] [] - Recorded AU metric.

@@ -1,0 +1,3703 @@
+P5830 TMAIN 2023-11-08 10:20:32.751-6 [I] ======================[Launcher started]======================
+P5830 TMAIN 2023-11-08 10:20:32.762-6 [I] [System Info] Cpu: "11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz"
+P5830 TMAIN 2023-11-08 10:20:32.762-6 [I] [System Info] Gpu: ""
+P5830 TMAIN 2023-11-08 10:20:32.778-6 [I] [System Info] Memory: "Free 8569 MB / Total 16039 MB"
+P5830 TMAIN 2023-11-08 10:20:32.779-6 [I] [System Info] OS: "Windows 11 Version 2009 64bit"
+P5830 TMAIN 2023-11-08 10:20:32.779-6 [I] [System Info] Screen: "(1366 x 768) x 1 number"
+P5830 TMAIN 2023-11-08 10:20:32.779-6 [I] [System Info] Version: ""
+P5830 TMAIN 2023-11-08 10:20:32.779-6 [I] [System Info] GUID: ""
+P5830 TMAIN 2023-11-08 10:20:32.794-6 [I] [System Info] os_version: "10.0.22621"
+P5830 TMAIN 2023-11-08 10:20:32.987-6 [I] [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+P5830 TMAIN 2023-11-08 10:20:32.987-6 [I] [app run cmd]:  "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+P5830 TMAIN 2023-11-08 10:20:32.987-6 [I] [BOOT]:[main] "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+P5830 TMAIN 2023-11-08 10:20:32.999-6 [I] [AGENT] Starting Agent
+P5830 TMAIN 2023-11-08 10:20:32.999-6 [I] [AGENT] Agent bin do not exist.
+P5830 TMAIN 2023-11-08 10:20:33.015-6 [I] [OEM]  "nxt"
+P5830 TMAIN 2023-11-08 10:20:33.041-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:33.583-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.172-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.188-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.220-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserWeb3Plugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.220-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserWeb3Plugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.251-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.251-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.267-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.284-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.299-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.323-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.363-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.474-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:35.871-6 [I] [BslMainWindow] "width=1366, height=768, ratio=100"
+P5830 TMAIN 2023-11-08 10:20:36.257-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.274-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.309-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/PcGamesPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.318-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/PcGamesPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.342-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.351-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.376-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.387-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.398-6 [W] Could not parse stylesheet of object QLabel(0x12f453e0, name = "label")
+P5830 TMAIN 2023-11-08 10:20:36.404-6 [W] QMetaObject::connectSlotsByName: No matching signal for on_pushButton_changeFile_clicked()
+P5830 TMAIN 2023-11-08 10:20:36.408-6 [W] QMetaObject::connectSlotsByName: No matching signal for on_pushButton_deleteFile_clicked()
+P5830 TMAIN 2023-11-08 10:20:36.694-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.705-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.744-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.755-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.777-6 [I] "app version: 10.4.70.1002"
+P5830 TMAIN 2023-11-08 10:20:36.797-6 [I] [BOOT][P-Load S] "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.809-6 [I] [BOOT][P-Load F] "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:36.816-6 [W] QFSFileEngine::open: No file name specified
+P5830 TMAIN 2023-11-08 10:20:36.829-6 [W] QFSFileEngine::open: No file name specified
+P5830 TMAIN 2023-11-08 10:20:37.007-6 [W] Cannot open file 'C:/Program Files (x86)/BlueStacks X/image/Gallery/pre_pressed.svg', because: El sistema no puede encontrar el archivo especificado.
+P5830 TMAIN 2023-11-08 10:20:37.015-6 [W] Cannot open file 'C:/Program Files (x86)/BlueStacks X/image/Gallery/pre_pressed.svg', because: El sistema no puede encontrar el archivo especificado.
+P5830 TMAIN 2023-11-08 10:20:37.057-6 [W] Cannot open file 'C:/Program Files (x86)/BlueStacks X/image/Gallery/next_pressed.svg', because: El sistema no puede encontrar el archivo especificado.
+P5830 TMAIN 2023-11-08 10:20:37.063-6 [W] Cannot open file 'C:/Program Files (x86)/BlueStacks X/image/Gallery/next_pressed.svg', because: El sistema no puede encontrar el archivo especificado.
+P5830 TMAIN 2023-11-08 10:20:37.515-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:37.521-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:37.526-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:37.536-6 [W] QObject::moveToThread: Cannot move objects with a parent
+P5830 TMAIN 2023-11-08 10:20:37.543-6 [I] [GRM]Start Download Grm Files
+P5830 T39B8 2023-11-08 10:20:37.550-6 [I] Number of threads created:  16
+P5830 TMAIN 2023-11-08 10:20:37.552-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:37.560-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:37.567-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:37.572-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:37.791-6 [W] QObject::connect: signal not found in BSHistory
+P5830 TMAIN 2023-11-08 10:20:37.944-6 [W] QMetaObject::connectSlotsByName: No matching signal for on_radioButton_back_clicked()
+P5830 TMAIN 2023-11-08 10:20:37.949-6 [W] QMetaObject::connectSlotsByName: No matching signal for on_radioButton_mgr_clicked()
+P5830 T5924 2023-11-08 10:20:38.084-6 [I] [GRM]Grm File Downloaded Finished
+P5830 T5A3C 2023-11-08 10:20:38.089-6 [I] [UPDATE]Using internet update
+P5830 T5A3C 2023-11-08 10:20:38.096-6 [W] [UPDATE]No local BS5 compatible returned, default to true
+P5830 T5A3C 2023-11-08 10:20:38.101-6 [W] [UPDATE]No local BS5 version returned
+P5830 T5A3C 2023-11-08 10:20:38.107-6 [I] [UPDATE]No remote BS5 version returned
+P5830 T5A3C 2023-11-08 10:20:38.124-6 [I] [VTX] Vtx detected with  false
+P5830 T5A3C 2023-11-08 10:20:38.134-6 [I] [VTX] Engine config reading raw mode of 0
+P5830 T5A3C 2023-11-08 10:20:38.141-6 [I] [VTX] Raw mode is set to  false from Engine config file
+P5830 T5A3C 2023-11-08 10:20:38.146-6 [I] [UPDATE]Default image for virtual box is set to ""
+P5830 T5A3C 2023-11-08 10:20:38.152-6 [I] [UPDATE]Default image for Hyper-V is set to ""
+P5830 T5A3C 2023-11-08 10:20:38.158-6 [W] [UPDATE]No supported player images returned
+P5830 TMAIN 2023-11-08 10:20:38.207-6 [I] [BOOT][start]:  booting view
+P5830 TMAIN 2023-11-08 10:20:38.214-6 [I] [BOOT][start]: [home webengine] set url:  "https://bsxplayerv15.bluestacks.com"
+P5830 TMAIN 2023-11-08 10:20:38.232-6 [I] domain test host:  "bsxplayerv15.bluestacks.com"
+P5830 TMAIN 2023-11-08 10:20:38.241-6 [I] [BOOT][start]: [home webengine] set url:  "https://web3-games.now.gg/"
+P5830 TMAIN 2023-11-08 10:20:38.253-6 [I] [BOOT][start]:[update][get version] url=  "https://x-api.bluestacks.com/get_version?version=10.4.70.1002&oem=nxt"
+P5830 TMAIN 2023-11-08 10:20:38.261-6 [I] [Update] request country code url=  "https://cloud.bluestacks.com/api/getcountryforip"
+P5830 TMAIN 2023-11-08 10:20:38.269-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.277-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.286-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.295-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/PcGamesPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.302-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/PcGamesPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.310-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.319-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.327-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.335-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.343-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.350-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.357-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.363-6 [I] [BOOT][start]: [Get 64-bit app configuration] url=  "https://cloud.bluestacks.com/bs4/get_appcenter_app_action?client_ver=5.8.100.1001&oem=nxt"
+P5830 TMAIN 2023-11-08 10:20:38.370-6 [I] [BOOT][start]: [Get app_image_preference configuration] url=  "https://cloud.bluestacks.com/app_player/get_apps_image_preference?oem=nxt" post data.. "player_version=5.13.220.1002&oem=nxt&locale=es&device_cpu_cores=8&device_memory=16039"
+P5830 TMAIN 2023-11-08 10:20:38.378-6 [I] [WebManager] switchPage: "home"
+P5830 TMAIN 2023-11-08 10:20:38.387-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.393-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.406-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.412-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.418-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.423-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.428-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.433-6 [I] [BOOT][P-Init S] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserWeb3Plugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.439-6 [I] [BOOT][P-Init F] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserWeb3Plugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.444-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserWeb3Plugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.448-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserWeb3Plugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.455-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.460-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.466-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.472-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.478-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.483-6 [I] [HYPER_V] Machine Virtualization deceted Hyper-V
+P5830 TMAIN 2023-11-08 10:20:38.489-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.495-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.500-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.505-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.510-6 [I] [SETTING] Play game strategy type is set to:  3
+P5830 TMAIN 2023-11-08 10:20:38.517-6 [I] [FEEDBACK] Getting feedback category
+P5830 TMAIN 2023-11-08 10:20:38.523-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.528-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.543-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.549-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.557-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.564-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.602-6 [I] [ImpressionManager]: Send total sizes: 0 number of types: 0
+P5830 TMAIN 2023-11-08 10:20:38.609-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.616-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.624-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.633-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+P5830 T5820 2023-11-08 10:20:38.642-6 [I] [BOOT][finish]: [Get 64-bit app configuration] success
+P5830 TMAIN 2023-11-08 10:20:38.643-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.659-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+P5830 T5670 2023-11-08 10:20:38.662-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:20:38.666-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+P5830 T5670 2023-11-08 10:20:38.673-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:20:38.682-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/PcGamesPlugin.dll"
+P5830 T5670 2023-11-08 10:20:38.688-6 [I] [BOOT][finish]: [Get app image preference] success
+P5830 TMAIN 2023-11-08 10:20:38.696-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/PcGamesPlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.712-6 [I] [BOOT][P-Boot S] "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.720-6 [I] [BOOT][P-Boot F] "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+P5830 TMAIN 2023-11-08 10:20:38.758-6 [I] [BOOT][start]: [Get promote popup info] url=  "https://cloud.bluestacks.com/launcher/boot_promotions?oem=nxt" 	sendBytes:  "bsx_install_date=2023-11-08&bsx_last_launch_date=&launcher_guid=65775019-cd9b-44a6-8355-dea6db792073&launcher_version=10.4.70.1002&guid=&player_version=5.13.220.1002&player_machine_id=&player_version_machine_id=97779001-338a-43cb-ac63-9052ff312946&email=&campaign_md5=&campaign_name=&locale=es-ES&device_cpu=8&device_memory=16039&oem=nxt&installed_apps=[]&package="
+P5830 T5A68 2023-11-08 10:20:38.821-6 [I] [STATS]STATS: get_features_info -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=%00&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:20:38.823-6 [W] Could not parse stylesheet of object QLabel(0x12f453e0, name = "label")
+P5830 T5A18 2023-11-08 10:20:38.831-6 [I] [FEEDBACK] Getting feedback category failed "illegal value"
+P5830 TMAIN 2023-11-08 10:20:38.866-6 [C] [GRM]Grm Download System Faile with  "4" of Version  "1"
+P5830 TMAIN 2023-11-08 10:20:38.875-6 [W] [GRM]Grm Download Retried...
+P5830 TMAIN 2023-11-08 10:20:38.884-6 [I] [UPDATE]Empty download url in quick download.
+P5830 TMAIN 2023-11-08 10:20:38.898-6 [W] [BRIDGE]Bridge url not found in engine updates, refreshing engine updates...
+P5830 TMAIN 2023-11-08 10:20:38.907-6 [I] [BOOT][start]: [Get app_image_preference configuration] url=  "https://cloud.bluestacks.com/app_player/get_apps_image_preference?oem=nxt" post data.. "player_version=5.13.220.1002&oem=nxt&locale=es&device_cpu_cores=8&device_memory=16039"
+P5830 TMAIN 2023-11-08 10:20:38.918-6 [I] load url:  "https://bsxplayerv15.bluestacks.com/home"
+P5830 T5A5C 2023-11-08 10:20:39.011-6 [I] [STATS]STATS: {011da2e0-9f78-4606-80de-9d42ce402b47} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=1&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 T5A64 2023-11-08 10:20:39.022-6 [I] [BOOT][finish]: [Get promote popup info] success
+P5830 T1378 2023-11-08 10:20:39.237-6 [I] [VTX] Vtx detected with  false
+P5830 T1378 2023-11-08 10:20:39.244-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 T1378 2023-11-08 10:20:39.254-6 [I] [BOOT][finish]: [Get app image preference] success
+P5830 T5A60 2023-11-08 10:20:39.261-6 [I] [GRM]Grm File Downloaded Finished
+P5830 TMAIN 2023-11-08 10:20:39.268-6 [C] [GRM]Grm Download System Faile with  "4" of Version  "1"
+P5830 TMAIN 2023-11-08 10:20:39.276-6 [W] [GRM]Grm Download Retried...
+P5830 T585C 2023-11-08 10:20:39.436-6 [I] [GRM]Grm File Downloaded Finished
+P5830 TMAIN 2023-11-08 10:20:39.443-6 [C] [GRM]Grm Download System Faile with  "4" of Version  "1"
+P5830 TMAIN 2023-11-08 10:20:39.449-6 [C] [GRM]Grm Download Failed after Retring a times of  "3"
+P5830 T465C 2023-11-08 10:20:40.390-6 [I] "down url https://x-api.bluestacks.com/get_version?version=10.4.70.1002&oem=nxt fail,networkerror: 201 "
+P5830 T465C 2023-11-08 10:20:40.393-6 [I] [Update] downFail......... 
+P5830 T465C 2023-11-08 10:20:40.407-6 [I] [BOOT][finish]:[update][get version] request fail
+P5830 TMAIN 2023-11-08 10:20:40.407-6 [I] [Update] can enter mainwindow.
+P5830 TMAIN 2023-11-08 10:20:40.957-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:40.957-6 [I] domain test host:  "web3-games.now.gg"
+P5830 TMAIN 2023-11-08 10:20:40.974-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:40.989-6 [I] domain test host:  "bsxplayerv15.bluestacks.com"
+P5830 TMAIN 2023-11-08 10:20:40.989-6 [I] load url:  "https://bsxplayerv15.bluestacks.com/home"
+P5830 TMAIN 2023-11-08 10:20:41.100-6 [I] load url:  "https://web3-games.now.gg/"
+P5830 TMAIN 2023-11-08 10:20:41.719-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:41.737-6 [I] domain test host:  "bsxplayerv15.bluestacks.com"
+P5830 TMAIN 2023-11-08 10:20:41.751-6 [I] load url:  "https://bsxplayerv15.bluestacks.com/home"
+P5830 TMAIN 2023-11-08 10:20:41.863-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:41.863-6 [I] domain test host:  "web3-games.now.gg"
+P5830 TMAIN 2023-11-08 10:20:41.878-6 [I] load url:  "https://web3-games.now.gg/"
+P5830 TMAIN 2023-11-08 10:20:42.518-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:42.518-6 [I] domain test host:  "bsxplayerv15.bluestacks.com"
+P5830 TMAIN 2023-11-08 10:20:42.518-6 [I] load url:  "https://bsxplayerv15.bluestacks.com/home"
+P5830 TMAIN 2023-11-08 10:20:42.650-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:42.664-6 [I] domain test host:  "web3-games.now.gg"
+P5830 TMAIN 2023-11-08 10:20:42.664-6 [I] load url:  "https://web3-games.now.gg/"
+P5830 TMAIN 2023-11-08 10:20:43.276-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:43.276-6 [W] QString::arg: Argument missing: C:/Program Files (x86)/BlueStacks X/www/offline.html?location=home&lang=es, nxt
+P5830 TMAIN 2023-11-08 10:20:43.276-6 [I] load url:  "C:/Program Files (x86)/BlueStacks X/www/offline.html?location=home&lang=es"
+P5830 TMAIN 2023-11-08 10:20:43.300-6 [I] [BOOT][finish]:  "home web page"
+P5830 TMAIN 2023-11-08 10:20:43.496-6 [I] [BOOT][finish]: [home webengine] load fail
+P5830 TMAIN 2023-11-08 10:20:43.522-6 [I] load url:  "C:/Program Files (x86)/BlueStacks X/www/offline.html?location=web3Games&lang=es&oem=nxt"
+P5830 TMAIN 2023-11-08 10:20:43.878-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:20:43.890-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:20:43.901-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:20:43.977-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:20:44.105-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:20:44.114-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:20:44.125-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:20:44.137-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:20:46.765-6 [I] [BOOT][finish]:  "home web page"
+P5830 TMAIN 2023-11-08 10:21:16.828-6 [I] [enter mainwindow.......]
+P5830 TMAIN 2023-11-08 10:21:16.937-6 [I] [PlayerMode] Remove the cloud mode function module.
+P5830 TMAIN 2023-11-08 10:21:17.130-6 [I] [TUTORIAL] Data read failed "illegal value"
+P5830 T5A48 2023-11-08 10:21:17.297-6 [I] [STATS]STATS: {7df2c996-c98c-4e5e-b2d9-28692bd53b58} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=2&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:21:17.307-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:21:23.878-6 [I] [WebManager] switchPage: "premiumGame"
+P5830 TMAIN 2023-11-08 10:21:23.978-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:21:23.989-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:21:23.998-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:21:24.007-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:21:24.018-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T5A4C 2023-11-08 10:21:24.064-6 [I] [STATS]STATS: {f2190f74-e0eb-4401-a122-2e3ca532c3f4} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=3&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:21:34.735-6 [I] [WebManager] switchPage: "home"
+P5830 TMAIN 2023-11-08 10:21:34.807-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:21:34.818-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:21:34.828-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:21:34.841-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:21:34.851-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T5900 2023-11-08 10:21:34.910-6 [I] [STATS]STATS: {b6eddfa2-a6c9-470a-b2cb-df80e3d960a7} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=4&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 T598C 2023-11-08 10:21:38.257-6 [I] Using VLC Player
+P5830 T5924 2023-11-08 10:21:38.439-6 [I] [STATS]STATS: {64eaeeeb-b9f5-4418-8dd9-b7cce953b77e} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=5&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 T598C 2023-11-08 10:21:41.603-6 [I] [DB] vlc init
+P5830 TMAIN 2023-11-08 10:21:51.086-6 [I] [WebManager] switchPage: "premiumGame"
+P5830 T5A3C 2023-11-08 10:21:51.220-6 [I] [STATS]STATS: {4c6b7ae0-46bd-4471-bbc2-026821bbbdc1} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=6&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:21:51.306-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:21:51.317-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:21:51.328-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:21:51.337-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:21:51.347-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T5834 2023-11-08 10:21:58.604-6 [W] QNetworkReplyImplPrivate::error: Internal problem, this method must only be called once.
+P5830 TMAIN 2023-11-08 10:21:58.616-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:21:58.625-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:21:58.633-6 [I] [BRIDGE]Bridge not ready. BS5 ready.
+P5830 TMAIN 2023-11-08 10:21:58.641-6 [C] [BRIDGE]No update found. Incompatible BS5 can not upgrade.
+P5830 T5834 2023-11-08 10:21:58.771-6 [I] [STATS]STATS: {e774ecc4-c959-4137-8ac3-c8dc85e33ac6} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=7&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:05.010-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:22:05.017-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:22:05.025-6 [I] [BRIDGE]Bridge not ready. BS5 ready.
+P5830 TMAIN 2023-11-08 10:22:05.033-6 [C] [BRIDGE]No update found. Incompatible BS5 can not upgrade.
+P5830 T5820 2023-11-08 10:22:05.154-6 [I] [STATS]STATS: {a7c8c2d7-155a-4134-89a8-54750f9b879f} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=8&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:05.691-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:22:05.699-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:22:05.707-6 [I] [BRIDGE]Bridge not ready. BS5 ready.
+P5830 TMAIN 2023-11-08 10:22:05.717-6 [C] [BRIDGE]No update found. Incompatible BS5 can not upgrade.
+P5830 T5670 2023-11-08 10:22:05.828-6 [I] [STATS]STATS: {e1420b89-8346-4227-922a-b4446661ec8e} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=9&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:08.273-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:22:08.281-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:22:08.291-6 [I] [BRIDGE]Bridge not ready. BS5 ready.
+P5830 TMAIN 2023-11-08 10:22:08.300-6 [C] [BRIDGE]No update found. Incompatible BS5 can not upgrade.
+P5830 T5A68 2023-11-08 10:22:08.425-6 [I] [STATS]STATS: {bcfc949e-1be0-446d-9d25-ab4a49d396c0} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=10&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:09.458-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:22:09.467-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:22:09.479-6 [I] [BRIDGE]Bridge not ready. BS5 ready.
+P5830 TMAIN 2023-11-08 10:22:09.491-6 [C] [BRIDGE]No update found. Incompatible BS5 can not upgrade.
+P5830 T5A18 2023-11-08 10:22:09.592-6 [I] [STATS]STATS: {00f9efdc-5382-4181-9ab4-919c3320748e} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=11&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:50.466-6 [I] [WebManager] switchPage: "cloudGame"
+P5830 T5A5C 2023-11-08 10:22:50.629-6 [I] [STATS]STATS: {1103013e-dc85-4d51-a43f-026995335617} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=12&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:50.746-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:22:50.756-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:22:50.765-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:22:50.775-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:22:50.786-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T5A64 2023-11-08 10:22:51.651-6 [I] [STATS]STATS: {1d59169e-920a-43c5-84e0-a2aecd873b7b} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=13&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:53.212-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:22:53.220-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:22:53.228-6 [I] [BRIDGE]Bridge not ready. BS5 ready.
+P5830 TMAIN 2023-11-08 10:22:53.238-6 [C] [BRIDGE]No update found. Incompatible BS5 can not upgrade.
+P5830 T1378 2023-11-08 10:22:53.350-6 [I] [STATS]STATS: {61e66551-aa6e-4eba-98b9-bd6c5fef5d49} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=14&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:54.802-6 [I] [VTX] Vtx detected with  false
+P5830 TMAIN 2023-11-08 10:22:54.811-6 [I] [VTX] vtx off but hpv on, setting to true
+P5830 TMAIN 2023-11-08 10:22:54.822-6 [I] [BRIDGE]Bridge not ready. BS5 ready.
+P5830 TMAIN 2023-11-08 10:22:54.833-6 [C] [BRIDGE]No update found. Incompatible BS5 can not upgrade.
+P5830 T5A60 2023-11-08 10:22:54.943-6 [I] [STATS]STATS: {c8e70065-c380-45e8-b04a-534428711570} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=15&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:55.962-6 [I] [WebManager] switchPage: "cloudGame"
+P5830 TMAIN 2023-11-08 10:22:56.058-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:22:56.070-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:22:56.092-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:22:56.104-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 T585C 2023-11-08 10:22:56.113-6 [I] [STATS]STATS: {443d03a3-6779-4865-bde9-af5b6aa674af} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=16&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:56.116-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:22:57.395-6 [I] [WebManager] switchPage: "premiumGame"
+P5830 TMAIN 2023-11-08 10:22:57.453-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:22:57.464-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:22:57.474-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:22:57.483-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:22:57.494-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T465C 2023-11-08 10:22:57.550-6 [I] [STATS]STATS: {978c6020-4aca-488d-bc22-12fd1e73e958} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=17&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:22:58.614-6 [I] [WebManager] switchPage: "home"
+P5830 TMAIN 2023-11-08 10:22:58.676-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:22:58.689-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:22:58.698-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:22:58.708-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:22:58.720-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T5A48 2023-11-08 10:22:58.770-6 [I] [STATS]STATS: {e84a568b-958f-4d75-a698-54a53bf06a43} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=18&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:23:00.664-6 [I] [WebManager] switchPage: "cloudGame"
+P5830 TMAIN 2023-11-08 10:23:00.744-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:23:00.755-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:23:00.766-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:23:00.775-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:23:00.790-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T5A4C 2023-11-08 10:23:00.832-6 [I] [STATS]STATS: {b985a672-c5a2-489f-a00a-6143488bbc64} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=19&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:23:04.140-6 [I] [WebManager] switchPage: "home"
+P5830 TMAIN 2023-11-08 10:23:04.211-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 TMAIN 2023-11-08 10:23:04.222-6 [W] Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+P5830 TMAIN 2023-11-08 10:23:04.233-6 [I] [BOOT][finish]: [home webengine] load success
+P5830 TMAIN 2023-11-08 10:23:04.242-6 [I] "[booting time][finish]:testComplete for yolens"
+P5830 TMAIN 2023-11-08 10:23:04.253-6 [C] Access to font at 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' from origin 'file://' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+P5830 T5900 2023-11-08 10:23:04.283-6 [I] [STATS]STATS: {6fc8fe22-ec0b-4744-8285-8a3ac65f4831} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=20&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:23:08.003-6 [I] [DOWNLOAD] Cancel all downloadings
+P5830 TMAIN 2023-11-08 10:23:08.023-6 [I] [DB] BSX is shutting down, Video is off.
+P5830 T5924 2023-11-08 10:23:08.205-6 [I] [STATS]STATS: {40b9112f-a899-4ea4-913e-e8de7514f6f8} -> 403 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <style type="text/css">
+            body {
+                height: 100%;
+                font-family: Roboto, Helvetica, Arial, sans-serif;
+                color: #6a6a6a;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], select, textarea {
+                color: #262626;
+                vertical-align: baseline;
+                margin: .2em;
+                border-style: solid;
+                border-width: 1px;
+                border-color: #a9a9a9;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 2px .5em;
+                appearance: none;
+                border-radius: 0;
+            }
+            input:focus {
+                border-color: #646464;
+                box-shadow: 0 0 1px 0 #a2a2a2;
+                outline: 0;
+            }
+            button {
+                padding: .5em 1em;
+                border: 1px solid;
+                border-radius: 3px;
+                min-width: 6em;
+                font-weight: 400;
+                font-size: .8em;
+                cursor: pointer;
+            }
+            button.primary {
+                color: #fff;
+                background-color: rgb(47, 113, 178);
+                border-color: rgb(34, 103, 173);
+            }
+            .message-container {
+                height: 500px;
+                width: 600px;
+                padding: 0;
+                margin: 10px;
+            }
+            .logo {
+                background: url(https://globalurl.fortinet.net:8010/XX/YY/ZZ/CI/MGPGHGPGPFGHDDPFGGHGFHBGCHEGPFBGAHAH) no-repeat left center;
+                height: 267px;
+                object-fit: contain;
+            }
+            table {
+                background-color: #fff;
+                border-spacing: 0;
+                margin: 1em;
+            }
+            table > tbody > tr > td:first-of-type:not([colspan]) {
+                white-space: nowrap;
+                color: rgba(0,0,0,.5);
+            }
+            table > tbody > tr > td:first-of-type {
+                vertical-align: top;
+            }
+            table > tbody > tr > td {
+                padding: .3em .3em;
+            }
+            .field {
+                display: table-row;
+            }
+            .field > :first-child {
+                display: table-cell;
+                width: 20%;
+            }
+            .field.single > :first-child {
+                display: inline;
+            }
+            .field > :not(:first-child) {
+                width: auto;
+                max-width: 100%;
+                display: inline-flex;
+                align-items: baseline;
+                virtical-align: top;
+                box-sizing: border-box;
+                margin: .3em;
+            }
+            .field > :not(:first-child) > input {
+                width: 230px;
+            }
+            .form-footer {
+                display: inline-flex;
+                justify-content: flex-start;
+            }
+            .form-footer > * {
+                margin: 1em;
+            }
+            .text-scrollable {
+                overflow: auto;
+                height: 150px;
+                border: 1px solid rgb(200, 200, 200);
+                padding: 5px;
+                font-size: 1em;
+            }
+            .text-centered {
+                text-align: center;
+            }
+            .text-container {
+                margin: 1em 1.5em;
+            }
+            .flex-container {
+                display: flex;
+            }
+            .flex-container.column {
+                flex-direction: column;
+            }
+        </style>
+        <title>Web Filter Violation</title>
+    </head>
+    <body><div class="message-container">
+    <div class="logo"></div>
+    <h1>FortiGuard Intrusion Prevention - Access Blocked</h1>
+    <h3>Web Page Blocked</h3>
+    <p>You have tried to access a web page that is in violation of your Internet usage policy.</p>
+    <table><tbody>
+        <tr>
+            <td>Category</td>
+            <td>Games</td>
+        </tr>
+        <tr>
+            <td>URL</td>
+            <td>https://cloud.bluestacks.com/?t=21&oem=nxt</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Group Name</td>
+            <td></td>
+        </tr>
+    </tbody></table>
+    <p>To have the rating of this web page re-evaluated <a href="https://globalurl.fortinet.net/rate/submit.php?id=034F30733310295E3931642C2F6A3F2D&cat=14&loc=https://cloud%2ebluestacks%2ecom%2f&ver=8">please click here</a>.</p>
+    <p></p>
+</div></body>
+</html>
+
+
+P5830 TMAIN 2023-11-08 10:23:09.086-6 [I] [STATS]Data sent total: 22 , S = 0 , F = 22
+P5830 TMAIN 2023-11-08 10:23:09.105-6 [I] ======================[Launcher stopped]======================

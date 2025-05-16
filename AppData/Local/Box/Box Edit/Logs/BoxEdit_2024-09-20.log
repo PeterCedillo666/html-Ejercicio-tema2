@@ -1,0 +1,78 @@
+[2024-09-20 09:55:39,721] [1    ] [INFO ] [] - ========== Box Edit v4.26.1.1109 ==========
+[2024-09-20 09:55:39,755] [1    ] [INFO ] [] - Command Line: "C:\Users\pcedillo\AppData\Local\Box\Box Edit\Box Edit.exe" 
+[2024-09-20 09:55:40,193] [1    ] [INFO ] [] - Getting DebugLogging value from CurrentUser
+[2024-09-20 09:55:40,194] [1    ] [INFO ] [] - Working with debug logging OFF
+[2024-09-20 09:55:40,222] [1    ] [INFO ] [] - Days to keep files in cache set to 7
+[2024-09-20 09:55:40,338] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2024-09-20 09:55:40,359] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(488): Starting DeviceId generator.
+[2024-09-20 09:55:40,360] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(515): Global mutex obtained. Start checking.
+[2024-09-20 09:55:40,423] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(331): Restored global DeviceId
+[2024-09-20 09:55:40,423] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(341): Restored global DeviceData
+[2024-09-20 09:55:40,423] [1    ] [INFO ] [] - DeviceId::PerformChecking(452): Checking DeviceData.
+[2024-09-20 09:55:40,423] [1    ] [INFO ] [] - DeviceId::PerformChecking(453): DeviceData read from registry: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-20 09:55:40,423] [1    ] [INFO ] [] - DeviceId::PerformChecking(454): Generated DeviceData: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-20 09:55:40,423] [1    ] [INFO ] [] - DeviceId::ClearLocalProperites(431): Clearing local properties
+[2024-09-20 09:55:40,466] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-09-20 09:55:40,466] [9    ] [INFO ] [] - result: True
+[2024-09-20 09:55:40,466] [9    ] [INFO ] [] - Checking for upgrades
+[2024-09-20 09:55:40,472] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-09-20 09:55:40,472] [1    ] [INFO ] [] - Running pipe server using box_edit_pipe1 as pipe name
+[2024-09-20 09:55:40,489] [1    ] [INFO ] [] - .NET Version: unknown (533320) - 4.0.30319.42000
+[2024-09-20 09:55:40,606] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-09-20 09:55:41,173] [9    ] [INFO ] [] - ### current version track name: 4.26.1
+[2024-09-20 09:55:41,173] [9    ] [WARN ] [] - Track 4.26.1 not found
+[2024-09-20 09:55:41,173] [9    ] [INFO ] [] - Track default for upgrade found
+[2024-09-20 09:55:41,173] [9    ] [INFO ] [] - RolloutID set to 47
+[2024-09-20 09:55:41,173] [9    ] [INFO ] [] - No upgrade available
+[2024-09-20 10:25:13,465] [1    ] [INFO ] [] - ========== Box Edit v4.26.1.1109 ==========
+[2024-09-20 10:25:13,487] [1    ] [INFO ] [] - Command Line: "C:\Users\pcedillo\AppData\Local\Box\Box Edit\Box Edit.exe" 
+[2024-09-20 10:25:14,247] [1    ] [INFO ] [] - Getting DebugLogging value from CurrentUser
+[2024-09-20 10:25:14,248] [1    ] [INFO ] [] - Working with debug logging OFF
+[2024-09-20 10:25:14,326] [1    ] [INFO ] [] - Days to keep files in cache set to 7
+[2024-09-20 10:25:14,447] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2024-09-20 10:25:14,478] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(488): Starting DeviceId generator.
+[2024-09-20 10:25:14,479] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(515): Global mutex obtained. Start checking.
+[2024-09-20 10:25:14,591] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(331): Restored global DeviceId
+[2024-09-20 10:25:14,591] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(341): Restored global DeviceData
+[2024-09-20 10:25:14,592] [1    ] [INFO ] [] - DeviceId::PerformChecking(452): Checking DeviceData.
+[2024-09-20 10:25:14,594] [1    ] [INFO ] [] - DeviceId::PerformChecking(453): DeviceData read from registry: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-20 10:25:14,595] [1    ] [INFO ] [] - DeviceId::PerformChecking(454): Generated DeviceData: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-20 10:25:14,596] [1    ] [INFO ] [] - DeviceId::ClearLocalProperites(431): Clearing local properties
+[2024-09-20 10:25:14,655] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-09-20 10:25:14,655] [9    ] [INFO ] [] - result: True
+[2024-09-20 10:25:14,655] [9    ] [INFO ] [] - Checking for upgrades
+[2024-09-20 10:25:14,669] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-09-20 10:25:14,703] [1    ] [INFO ] [] - Running pipe server using box_edit_pipe1 as pipe name
+[2024-09-20 10:25:14,716] [1    ] [INFO ] [] - .NET Version: unknown (533320) - 4.0.30319.42000
+[2024-09-20 10:25:14,905] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-09-20 10:25:15,218] [9    ] [INFO ] [] - ### current version track name: 4.26.1
+[2024-09-20 10:25:15,218] [9    ] [WARN ] [] - Track 4.26.1 not found
+[2024-09-20 10:25:15,218] [9    ] [INFO ] [] - Track default for upgrade found
+[2024-09-20 10:25:15,218] [9    ] [INFO ] [] - RolloutID set to 47
+[2024-09-20 10:25:15,218] [9    ] [INFO ] [] - No upgrade available
+[2024-09-20 10:29:49,144] [1    ] [INFO ] [] - ========== Box Edit v4.26.1.1109 ==========
+[2024-09-20 10:29:49,173] [1    ] [INFO ] [] - Command Line: "C:\Users\pcedillo\AppData\Local\Box\Box Edit\Box Edit.exe" 
+[2024-09-20 10:29:49,725] [1    ] [INFO ] [] - Getting DebugLogging value from CurrentUser
+[2024-09-20 10:29:49,727] [1    ] [INFO ] [] - Working with debug logging OFF
+[2024-09-20 10:29:49,802] [1    ] [INFO ] [] - Days to keep files in cache set to 7
+[2024-09-20 10:29:49,903] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2024-09-20 10:29:49,932] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(488): Starting DeviceId generator.
+[2024-09-20 10:29:49,933] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(515): Global mutex obtained. Start checking.
+[2024-09-20 10:29:50,036] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(331): Restored global DeviceId
+[2024-09-20 10:29:50,036] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(341): Restored global DeviceData
+[2024-09-20 10:29:50,037] [1    ] [INFO ] [] - DeviceId::PerformChecking(452): Checking DeviceData.
+[2024-09-20 10:29:50,038] [1    ] [INFO ] [] - DeviceId::PerformChecking(453): DeviceData read from registry: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-20 10:29:50,038] [1    ] [INFO ] [] - DeviceId::PerformChecking(454): Generated DeviceData: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-09-20 10:29:50,040] [1    ] [INFO ] [] - DeviceId::ClearLocalProperites(431): Clearing local properties
+[2024-09-20 10:29:50,085] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-09-20 10:29:50,085] [9    ] [INFO ] [] - result: True
+[2024-09-20 10:29:50,085] [9    ] [INFO ] [] - Checking for upgrades
+[2024-09-20 10:29:50,099] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-09-20 10:29:50,113] [1    ] [INFO ] [] - Running pipe server using box_edit_pipe1 as pipe name
+[2024-09-20 10:29:50,125] [1    ] [INFO ] [] - .NET Version: unknown (533320) - 4.0.30319.42000
+[2024-09-20 10:29:50,278] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-09-20 10:29:50,779] [9    ] [INFO ] [] - ### current version track name: 4.26.1
+[2024-09-20 10:29:50,780] [9    ] [WARN ] [] - Track 4.26.1 not found
+[2024-09-20 10:29:50,780] [9    ] [INFO ] [] - Track default for upgrade found
+[2024-09-20 10:29:50,781] [9    ] [INFO ] [] - RolloutID set to 47
+[2024-09-20 10:29:50,781] [9    ] [INFO ] [] - No upgrade available

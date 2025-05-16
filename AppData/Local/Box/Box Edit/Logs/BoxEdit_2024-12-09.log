@@ -1,0 +1,16 @@
+[2024-12-13 11:30:36,322] [48   ] [INFO ] [] - Scheduling next upgrade check: Delay
+[2024-12-13 11:30:36,332] [48   ] [INFO ] [] - Next autoupgrade timer will fire after: 1.00:00:00
+[2024-12-13 11:30:36,333] [48   ] [INFO ] [] - Checking for upgrade
+[2024-12-13 11:30:36,335] [48   ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-12-13 11:30:36,335] [48   ] [INFO ] [] - result: True
+[2024-12-13 11:30:36,340] [48   ] [INFO ] [] - Checking for upgrades
+[2024-12-13 11:30:36,340] [48   ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-12-13 11:30:36,869] [48   ] [INFO ] [] - ### current version track name: 4.27.1
+[2024-12-13 11:30:36,869] [48   ] [INFO ] [] - No custom track name in registry
+[2024-12-13 11:30:36,869] [48   ] [WARN ] [] - Track 4.27.1 not found
+[2024-12-13 11:30:36,869] [48   ] [INFO ] [] - Track default for upgrade found
+[2024-12-13 11:30:36,871] [48   ] [INFO ] [] - RolloutID set to 63
+[2024-12-13 11:30:36,871] [48   ] [INFO ] [] - No upgrade available
+[2024-12-13 11:30:36,871] [48   ] [INFO ] [] - Check for updates returned None
+[2024-12-13 11:30:36,872] [48   ] [INFO ] [] - Scheduling next upgrade check: Reset
+[2024-12-13 11:30:36,872] [48   ] [INFO ] [] - Next autoupgrade timer will fire after: 05:27:00

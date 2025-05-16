@@ -1,0 +1,100 @@
+[2024-10-07 09:14:39,884] [1    ] [INFO ] [] - ========== Box Edit v4.26.1.1109 ==========
+[2024-10-07 09:14:39,963] [1    ] [INFO ] [] - Command Line: "C:\Users\pcedillo\AppData\Local\Box\Box Edit\Box Edit.exe" 
+[2024-10-07 09:14:40,852] [1    ] [INFO ] [] - Getting DebugLogging value from CurrentUser
+[2024-10-07 09:14:40,865] [1    ] [INFO ] [] - Working with debug logging OFF
+[2024-10-07 09:14:40,975] [1    ] [INFO ] [] - Days to keep files in cache set to 7
+[2024-10-07 09:14:42,210] [1    ] [INFO ] [] - LocalMachine RegistryKey not set
+[2024-10-07 09:14:42,257] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(488): Starting DeviceId generator.
+[2024-10-07 09:14:42,257] [1    ] [INFO ] [] - DeviceId::CheckDeviceId(515): Global mutex obtained. Start checking.
+[2024-10-07 09:14:42,510] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(331): Restored global DeviceId
+[2024-10-07 09:14:42,510] [1    ] [INFO ] [] - DeviceId::RestoreAndValidateGlobalProperites(341): Restored global DeviceData
+[2024-10-07 09:14:42,510] [1    ] [INFO ] [] - DeviceId::PerformChecking(452): Checking DeviceData.
+[2024-10-07 09:14:42,526] [1    ] [INFO ] [] - DeviceId::PerformChecking(453): DeviceData read from registry: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-10-07 09:14:42,526] [1    ] [INFO ] [] - DeviceId::PerformChecking(454): Generated DeviceData: {"ComputerSystemProductUUID":"700230CC-1E9B-11B2-A85C-9D1389205BDA","Version":1}
+[2024-10-07 09:14:42,526] [1    ] [INFO ] [] - DeviceId::ClearLocalProperites(431): Clearing local properties
+[2024-10-07 09:14:42,621] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-10-07 09:14:42,621] [9    ] [INFO ] [] - result: True
+[2024-10-07 09:14:42,621] [9    ] [INFO ] [] - Checking for upgrades
+[2024-10-07 09:14:42,654] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-10-07 09:14:42,701] [1    ] [INFO ] [] - Running pipe server using box_edit_pipe1 as pipe name
+[2024-10-07 09:14:42,716] [1    ] [INFO ] [] - .NET Version: unknown (533320) - 4.0.30319.42000
+[2024-10-07 09:14:43,077] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-10-07 09:14:43,124] [9    ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2024-10-07 09:14:43,124] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-10-07 09:14:43,124] [9    ] [INFO ] [] - result: True
+[2024-10-07 09:14:43,124] [9    ] [INFO ] [] - Checking for upgrades
+[2024-10-07 09:14:43,140] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-10-07 09:14:43,140] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-10-07 09:14:43,156] [9    ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2024-10-07 09:14:43,156] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-10-07 09:14:43,156] [9    ] [INFO ] [] - result: True
+[2024-10-07 09:14:43,156] [9    ] [INFO ] [] - Checking for upgrades
+[2024-10-07 09:14:43,156] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-10-07 09:14:43,172] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-10-07 09:14:43,187] [9    ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2024-10-07 09:14:43,187] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-10-07 09:14:43,187] [9    ] [INFO ] [] - result: True
+[2024-10-07 09:14:43,187] [9    ] [INFO ] [] - Checking for upgrades
+[2024-10-07 09:14:43,187] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-10-07 09:14:43,187] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-10-07 09:14:43,234] [9    ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2024-10-07 09:14:43,234] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-10-07 09:14:43,234] [9    ] [INFO ] [] - result: True
+[2024-10-07 09:14:43,234] [9    ] [INFO ] [] - Checking for upgrades
+[2024-10-07 09:14:43,234] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-10-07 09:14:43,234] [9    ] [INFO ] [] - Url used to upgrade: https://cdn07.boxcdn.net/BoxEditAutoupdate2.json
+[2024-10-07 09:14:43,254] [9    ] [ERROR] [] - UpgradeService.GetLatestUpgrade on line number [0]  System.Net.WebException: No se puede resolver el nombre remoto: 'cdn07.boxcdn.net'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en Box.Edit.UpgradeService.UpgradeService.GetLatestUpgrade()
+[2024-10-07 09:14:43,266] [9    ] [INFO ] [] - .NET Version - installed 533320, expected: 528040
+[2024-10-07 09:14:43,266] [9    ] [INFO ] [] - result: True
+[2024-10-07 09:14:43,266] [9    ] [INFO ] [] - Checking for upgrades
+[2024-10-07 09:14:43,266] [9    ] [INFO ] [] - ### File path for UpgradeState: C:\Users\pcedillo\AppData\Local\Box\upgrade_state.json
+[2024-10-07 09:14:43,266] [9    ] [INFO ] [] - Too many attemps for upgrade
+[2024-10-07 11:31:03,699] [2    ] [ERROR] [] - Program.TaskScheduler_UnobservedTaskException on line number [0]  System.AggregateException: Las excepciones de una tarea no se detectaron ni esperando a que terminara la tarea ni teniendo acceso a la propiedad Exception. Por consiguiente, el subproceso del finalizador volvió a producir la excepción no detectada. ---> System.AggregateException: Se han producido uno o varios errores. ---> System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No se puede resolver el nombre remoto: 'client-log.box.com'
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en Box.Metrics.Reporter.MetricsSender.<>c__DisplayClass22_0.<SendMetricToJsonGen204Async>b__0()
+   en System.Threading.Tasks.Task.InnerInvoke()
+   en System.Threading.Tasks.Task.Execute()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+---> (Nº de excepción interna 0) System.AggregateException: Se han producido uno o varios errores. ---> System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No se puede resolver el nombre remoto: 'client-log.box.com'
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en Box.Metrics.Reporter.MetricsSender.<>c__DisplayClass22_0.<SendMetricToJsonGen204Async>b__0()
+   en System.Threading.Tasks.Task.InnerInvoke()
+   en System.Threading.Tasks.Task.Execute()
+---> (Nº de excepción interna 0) System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No se puede resolver el nombre remoto: 'client-log.box.com'
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---<---
+<---
+
